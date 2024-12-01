@@ -13,3 +13,5 @@
 6. O nome do video que será analisado deve ser "video.mp4" e deve estar localizado no mesmo diretório do código "techchallenger4.py"
 
 7. O arquivo "summary.txt" deve estar na mesma pasta que o código "techchallenger4.py"
+
+- Link para o video de saída https://youtu.be/YMBo1mVGM88
