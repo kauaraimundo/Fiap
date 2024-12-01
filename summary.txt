@@ -1,2299 +1,2424 @@
-Total de frames.3326
-Frame: 0 Pessoa com braços abaixados.
+Frame: 0 Pessoa com os braços abaixados.
 Frame: 0 Pessoa olhando para o lado Direto
-Frame: 0 neutral
-Frame: 0 sad
-Frame: 0 sad
-Frame: 0 sad
-Frame: 4 Pessoa com braços abaixados.
+Frame: 0 Emoção detectada - neutral
+Frame: 0 Emoção detectada - neutral
+Frame: 0 Emoção detectada - sad
+Frame: 0 Emoção detectada - sad
+Frame: 4 Pessoa com os braços abaixados.
 Frame: 4 Pessoa olhando para o lado Direto
-Frame: 4 neutral
-Frame: 4 sad
-Frame: 4 neutral
-Frame: 8 Pessoa com braços abaixados.
+Frame: 4 Emoção detectada - neutral
+Frame: 4 Emoção detectada - sad
+Frame: 4 Emoção detectada - neutral
+Frame: 8 Pessoa com os braços abaixados.
 Frame: 8 Pessoa olhando para o lado Direto
-Frame: 8 neutral
-Frame: 8 sad
-Frame: 8 neutral
-Frame: 12 Pessoa com braços abaixados.
+Frame: 8 Emoção detectada - neutral
+Frame: 8 Emoção detectada - neutral
+Frame: 8 Emoção detectada - sad
+Frame: 12 Pessoa com os braços abaixados.
 Frame: 12 Pessoa olhando para o lado Direto
-Frame: 12 neutral
-Frame: 12 neutral
-Frame: 12 sad
-Frame: 16 Pessoa com braços abaixados.
+Frame: 12 Emoção detectada - neutral
+Frame: 12 Emoção detectada - neutral
+Frame: 12 Emoção detectada - sad
+Frame: 16 Pessoa com os braços abaixados.
 Frame: 16 Pessoa olhando para o lado Direto
-Frame: 16 angry
-Frame: 16 neutral
-Frame: 16 fear
-Frame: 20 Pessoa com braços abaixados.
+Frame: 16 Emoção detectada - angry
+Frame: 16 Emoção detectada - neutral
+Frame: 16 Emoção detectada - fear
+Frame: 20 Pessoa com os braços abaixados.
 Frame: 20 Pessoa olhando para o lado Direto
-Frame: 20 neutral
-Frame: 20 neutral
-Frame: 20 fear
-Frame: 24 Pessoa com braços abaixados.
+Frame: 20 Emoção detectada - neutral
+Frame: 20 Emoção detectada - angry
+Frame: 20 Emoção detectada - fear
+Frame: 24 Pessoa com os braços abaixados.
 Frame: 24 Pessoa olhando para o lado Direto
-Frame: 24 neutral
-Frame: 24 angry
-Frame: 24 angry
-Frame: 28 Pessoa com braços abaixados.
+Frame: 24 Emoção detectada - neutral
+Frame: 24 Emoção detectada - angry
+Frame: 24 Emoção detectada - angry
+Frame: 28 Pessoa com os braços abaixados.
 Frame: 28 Pessoa olhando para o lado Direto
-Frame: 28 neutral
-Frame: 28 sad
-Frame: 28 angry
-Frame: 28 sad
-Frame: 32 Pessoa com braços abaixados.
+Frame: 28 Emoção detectada - neutral
+Frame: 28 Emoção detectada - angry
+Frame: 28 Emoção detectada - angry
+Frame: 28 Emoção detectada - sad
+Frame: 32 Pessoa com os braços abaixados.
 Frame: 32 Pessoa olhando para o lado Direto
-Frame: 32 neutral
-Frame: 32 sad
-Frame: 32 neutral
-Frame: 36 Pessoa com braços abaixados.
+Frame: 32 Emoção detectada - neutral
+Frame: 32 Emoção detectada - neutral
+Frame: 32 Emoção detectada - sad
+Frame: 36 Pessoa com os braços abaixados.
 Frame: 36 Pessoa olhando para o lado Direto
-Frame: 36 neutral
-Frame: 36 neutral
-Frame: 36 fear
-Frame: 36 neutral
-Frame: 40 Pessoa com braços abaixados.
+Frame: 36 Emoção detectada - neutral
+Frame: 36 Emoção detectada - neutral
+Frame: 36 Emoção detectada - neutral
+Frame: 36 Emoção detectada - fear
+Frame: 40 Pessoa com os braços abaixados.
 Frame: 40 Pessoa olhando para o lado Direto
-Frame: 40 neutral
-Frame: 40 angry
-Frame: 40 fear
-Frame: 40 sad
-Frame: 44 Pessoa com braços abaixados.
+Frame: 40 Emoção detectada - neutral
+Frame: 40 Emoção detectada - neutral
+Frame: 40 Emoção detectada - fear
+Frame: 40 Emoção detectada - sad
+Frame: 44 Pessoa com os braços abaixados.
 Frame: 44 Pessoa olhando para o lado Direto
-Frame: 44 neutral
-Frame: 44 neutral
-Frame: 44 fear
-Frame: 44 angry
-Frame: 48 Pessoa com braços abaixados.
-Frame: 48 Pessoa olhando para o lado Esquerdo
-Frame: 48 neutral
-Frame: 48 sad
-Frame: 48 sad
-Frame: 48 sad
-Frame: 52 Pessoa com braços abaixados.
-Frame: 52 Pessoa olhando para o lado Esquerdo
-Frame: 52 neutral
-Frame: 52 neutral
-Frame: 52 fear
-Frame: 56 Pessoa olhando para o lado Esquerdo
-Frame: 56 neutral
-Frame: 56 neutral
-Frame: 56 fear
-Frame: 60 Pessoa com braços abaixados.
-Frame: 60 Pessoa olhando para frente
-Frame: 60 Pessoa olhando para o lado Esquerdo
-Frame: 60 neutral
-Frame: 60 neutral
-Frame: 64 Pessoa com braços abaixados.
+Frame: 44 Emoção detectada - neutral
+Frame: 44 Emoção detectada - neutral
+Frame: 44 Emoção detectada - fear
+Frame: 44 Emoção detectada - angry
+Frame: 48 Pessoa com os braços abaixados.
+Frame: 48 Pessoa olhando para o lado Direto
+Frame: 48 Emoção detectada - neutral
+Frame: 48 Emoção detectada - angry
+Frame: 48 Emoção detectada - sad
+Frame: 52 Pessoa com os braços abaixados.
+Frame: 52 Pessoa olhando para o lado Direto
+Frame: 52 Emoção detectada - neutral
+Frame: 52 Emoção detectada - fear
+Frame: 52 Emoção detectada - angry
+Frame: 52 Emoção detectada - happy
+Frame: 56 Pessoa olhando para o lado Direto
+Frame: 56 Emoção detectada - neutral
+Frame: 56 Emoção detectada - neutral
+Frame: 56 Emoção detectada - fear
+Frame: 60 Pessoa olhando para o lado Direto
+Frame: 60 Emoção detectada - fear
+Frame: 60 Emoção detectada - neutral
+Frame: 64 Pessoa com os braços abaixados.
 Frame: 64 Pessoa olhando para o lado Direto
-Frame: 64 angry
-Frame: 64 neutral
-Frame: 64 fear
+Frame: 64 Movimento anômalo identificado.
+Frame: 64 Emoção detectada - neutral
+Frame: 64 Emoção detectada - angry
+Frame: 64 Emoção detectada - fear
 Frame: 68 Pessoa olhando para o lado Direto
-Frame: 68 neutral
-Frame: 68 neutral
-Frame: 68 fear
+Frame: 68 Movimento anômalo identificado.
+Frame: 68 Emoção detectada - neutral
+Frame: 68 Emoção detectada - neutral
+Frame: 68 Emoção detectada - fear
 Frame: 72 Pessoa olhando para o lado Direto
-Frame: 72 neutral
-Frame: 72 neutral
-Frame: 72 fear
-Frame: 76 Pessoa com braços abaixados.
+Frame: 72 Emoção detectada - angry
+Frame: 72 Emoção detectada - neutral
+Frame: 72 Emoção detectada - fear
 Frame: 76 Pessoa olhando para o lado Direto
-Frame: 76 neutral
-Frame: 76 neutral
+Frame: 76 Emoção detectada - neutral
+Frame: 76 Emoção detectada - neutral
 Frame: 80 Pessoa olhando para o lado Direto
-Frame: 80 neutral
-Frame: 80 neutral
-Frame: 80 fear
+Frame: 80 Emoção detectada - sad
+Frame: 80 Emoção detectada - neutral
+Frame: 80 Emoção detectada - fear
 Frame: 84 Pessoa olhando para o lado Direto
-Frame: 84 neutral
-Frame: 84 neutral
-Frame: 84 fear
+Frame: 84 Emoção detectada - neutral
+Frame: 84 Emoção detectada - sad
+Frame: 84 Emoção detectada - fear
 Frame: 88 Pessoa olhando para o lado Direto
-Frame: 88 neutral
-Frame: 88 neutral
-Frame: 88 fear
+Frame: 88 Emoção detectada - neutral
+Frame: 88 Emoção detectada - sad
+Frame: 88 Emoção detectada - fear
 Frame: 92 Pessoa olhando para o lado Direto
-Frame: 92 neutral
-Frame: 92 neutral
-Frame: 92 fear
+Frame: 92 Emoção detectada - neutral
+Frame: 92 Emoção detectada - neutral
+Frame: 92 Emoção detectada - fear
+Frame: 92 Emoção detectada - fear
 Frame: 96 Pessoa olhando para o lado Direto
-Frame: 96 neutral
-Frame: 96 neutral
-Frame: 96 fear
+Frame: 96 Emoção detectada - neutral
+Frame: 96 Emoção detectada - fear
+Frame: 96 Emoção detectada - fear
 Frame: 100 Pessoa olhando para o lado Direto
-Frame: 100 neutral
-Frame: 100 sad
-Frame: 100 fear
+Frame: 100 Emoção detectada - neutral
+Frame: 100 Emoção detectada - sad
+Frame: 100 Emoção detectada - fear
 Frame: 104 Pessoa olhando para o lado Direto
-Frame: 104 neutral
-Frame: 104 neutral
-Frame: 104 neutral
-Frame: 104 angry
+Frame: 104 Emoção detectada - neutral
+Frame: 104 Emoção detectada - sad
+Frame: 104 Emoção detectada - neutral
+Frame: 104 Emoção detectada - angry
 Frame: 108 Pessoa olhando para o lado Direto
-Frame: 108 neutral
-Frame: 108 neutral
-Frame: 108 fear
-Frame: 112 Pessoa olhando para frente
-Frame: 112 Pessoa olhando para o lado Esquerdo
-Frame: 112 neutral
-Frame: 112 neutral
-Frame: 112 sad
+Frame: 108 Emoção detectada - neutral
+Frame: 108 Emoção detectada - neutral
+Frame: 108 Emoção detectada - fear
+Frame: 112 Pessoa olhando para o lado Direto
+Frame: 112 Emoção detectada - neutral
+Frame: 112 Emoção detectada - neutral
+Frame: 112 Emoção detectada - sad
 Frame: 116 Pessoa olhando para o lado Direto
-Frame: 116 fear
-Frame: 116 sad
+Frame: 116 Emoção detectada - neutral
+Frame: 116 Emoção detectada - fear
 Frame: 120 Pessoa olhando para frente
 Frame: 120 Pessoa olhando para o lado Esquerdo
-Frame: 120 fear
-Frame: 120 neutral
-Frame: 124 Pessoa olhando para frente
+Frame: 120 Movimento anômalo identificado.
+Frame: 120 Emoção detectada - fear
+Frame: 120 Emoção detectada - neutral
 Frame: 124 Pessoa olhando para o lado Esquerdo
-Frame: 124 neutral
-Frame: 124 fear
-Frame: 124 angry
-Frame: 128 neutral
-Frame: 128 fear
-Frame: 128 angry
-Frame: 132 angry
-Frame: 132 sad
-Frame: 136 neutral
-Frame: 136 fear
-Frame: 136 angry
-Frame: 140 sad
-Frame: 140 angry
-Frame: 140 fear
-Frame: 144 angry
-Frame: 144 sad
-Frame: 148 angry
-Frame: 148 fear
-Frame: 148 sad
-Frame: 152 sad
-Frame: 152 happy
-Frame: 156 sad
-Frame: 160 sad
-Frame: 164 sad
-Frame: 168 sad
-Frame: 172 sad
-Frame: 176 neutral
-Frame: 180 Pessoa com braços abaixados.
+Frame: 124 Movimento anômalo identificado.
+Frame: 124 Emoção detectada - neutral
+Frame: 124 Emoção detectada - fear
+Frame: 124 Emoção detectada - angry
+Frame: 128 Emoção detectada - neutral
+Frame: 128 Emoção detectada - fear
+Frame: 128 Emoção detectada - angry
+Frame: 132 Emoção detectada - angry
+Frame: 132 Emoção detectada - sad
+Frame: 136 Emoção detectada - neutral
+Frame: 136 Emoção detectada - fear
+Frame: 136 Emoção detectada - angry
+Frame: 140 Emoção detectada - sad
+Frame: 140 Emoção detectada - angry
+Frame: 140 Emoção detectada - fear
+Frame: 144 Emoção detectada - angry
+Frame: 144 Emoção detectada - sad
+Frame: 148 Emoção detectada - angry
+Frame: 148 Emoção detectada - fear
+Frame: 148 Emoção detectada - sad
+Frame: 152 Emoção detectada - sad
+Frame: 152 Emoção detectada - angry
+Frame: 152 Emoção detectada - happy
+Frame: 156 Emoção detectada - sad
+Frame: 160 Emoção detectada - sad
+Frame: 164 Emoção detectada - angry
+Frame: 164 Emoção detectada - sad
+Frame: 168 Emoção detectada - angry
+Frame: 168 Emoção detectada - sad
+Frame: 172 Emoção detectada - neutral
+Frame: 172 Emoção detectada - sad
+Frame: 176 Emoção detectada - neutral
+Frame: 180 Pessoa com os braços abaixados.
 Frame: 180 Pessoa olhando para frente
 Frame: 180 Pessoa olhando para o lado Esquerdo
-Frame: 180 happy
+Frame: 180 Movimento anômalo identificado.
+Frame: 180 Emoção detectada - happy
 Frame: 184 Pessoa olhando para frente
 Frame: 184 Pessoa olhando para o lado Esquerdo
-Frame: 184 happy
+Frame: 184 Movimento anômalo identificado.
+Frame: 184 Emoção detectada - happy
 Frame: 188 Pessoa olhando para frente
 Frame: 188 Pessoa olhando para o lado Esquerdo
-Frame: 188 happy
+Frame: 188 Movimento anômalo identificado.
+Frame: 188 Emoção detectada - happy
 Frame: 192 Pessoa olhando para o lado Esquerdo
-Frame: 192 happy
+Frame: 192 Movimento anômalo identificado.
+Frame: 192 Emoção detectada - happy
 Frame: 196 Pessoa olhando para o lado Esquerdo
-Frame: 196 happy
+Frame: 196 Movimento anômalo identificado.
+Frame: 196 Emoção detectada - happy
 Frame: 200 Pessoa olhando para o lado Esquerdo
-Frame: 200 happy
+Frame: 200 Emoção detectada - happy
 Frame: 204 Pessoa olhando para o lado Esquerdo
-Frame: 204 happy
+Frame: 204 Emoção detectada - happy
 Frame: 208 Pessoa olhando para o lado Esquerdo
-Frame: 208 happy
+Frame: 208 Emoção detectada - happy
 Frame: 212 Pessoa olhando para o lado Esquerdo
-Frame: 212 happy
+Frame: 212 Movimento anômalo identificado.
+Frame: 212 Emoção detectada - happy
 Frame: 216 Pessoa olhando para o lado Esquerdo
-Frame: 216 happy
+Frame: 216 Movimento anômalo identificado.
+Frame: 216 Emoção detectada - happy
 Frame: 220 Pessoa olhando para o lado Esquerdo
-Frame: 220 happy
-Frame: 224 Pessoa com braços abaixados.
+Frame: 220 Movimento anômalo identificado.
+Frame: 220 Emoção detectada - happy
+Frame: 224 Pessoa com os braços abaixados.
 Frame: 224 Pessoa olhando para o lado Esquerdo
-Frame: 224 happy
-Frame: 228 Pessoa com braços abaixados.
+Frame: 224 Movimento anômalo identificado.
+Frame: 224 Emoção detectada - happy
+Frame: 228 Pessoa com os braços abaixados.
 Frame: 228 Pessoa olhando para o lado Esquerdo
-Frame: 228 happy
-Frame: 232 Pessoa com braços abaixados.
+Frame: 228 Emoção detectada - happy
+Frame: 232 Pessoa com os braços abaixados.
 Frame: 232 Pessoa olhando para frente
 Frame: 232 Pessoa olhando para o lado Esquerdo
-Frame: 232 happy
-Frame: 236 Pessoa com braços abaixados.
+Frame: 232 Emoção detectada - happy
+Frame: 236 Pessoa com os braços abaixados.
 Frame: 236 Pessoa olhando para frente
 Frame: 236 Pessoa olhando para o lado Esquerdo
-Frame: 236 happy
-Frame: 240 Pessoa com braços abaixados.
+Frame: 236 Emoção detectada - happy
+Frame: 240 Pessoa com os braços abaixados.
 Frame: 240 Pessoa olhando para frente
 Frame: 240 Pessoa olhando para o lado Esquerdo
-Frame: 240 happy
-Frame: 244 Pessoa com braços abaixados.
+Frame: 240 Emoção detectada - happy
+Frame: 244 Pessoa com os braços abaixados.
 Frame: 244 Pessoa olhando para frente
 Frame: 244 Pessoa olhando para o lado Esquerdo
-Frame: 244 happy
-Frame: 248 Pessoa com braços abaixados.
+Frame: 244 Emoção detectada - happy
+Frame: 248 Pessoa com os braços abaixados.
 Frame: 248 Pessoa olhando para frente
 Frame: 248 Pessoa olhando para o lado Esquerdo
-Frame: 248 sad
-Frame: 252 Pessoa com braços abaixados.
+Frame: 248 Movimento anômalo identificado.
+Frame: 248 Emoção detectada - happy
+Frame: 252 Pessoa com os braços abaixados.
 Frame: 252 Pessoa olhando para frente
 Frame: 252 Pessoa olhando para o lado Esquerdo
-Frame: 252 sad
-Frame: 256 Pessoa com braços abaixados.
+Frame: 252 Emoção detectada - happy
+Frame: 256 Pessoa com os braços abaixados.
 Frame: 256 Pessoa olhando para frente
 Frame: 256 Pessoa olhando para o lado Esquerdo
-Frame: 256 happy
-Frame: 260 Pessoa com braços abaixados.
+Frame: 256 Movimento anômalo identificado.
+Frame: 256 Emoção detectada - happy
+Frame: 260 Pessoa com os braços abaixados.
 Frame: 260 Pessoa olhando para frente
 Frame: 260 Pessoa olhando para o lado Esquerdo
-Frame: 260 happy
-Frame: 264 Pessoa com braços abaixados.
+Frame: 260 Movimento anômalo identificado.
+Frame: 260 Emoção detectada - neutral
+Frame: 264 Pessoa com os braços abaixados.
 Frame: 264 Pessoa olhando para frente
 Frame: 264 Pessoa olhando para o lado Esquerdo
-Frame: 264 happy
-Frame: 268 Pessoa com braços abaixados.
+Frame: 264 Emoção detectada - happy
+Frame: 268 Pessoa com os braços abaixados.
 Frame: 268 Pessoa olhando para frente
 Frame: 268 Pessoa olhando para o lado Esquerdo
-Frame: 268 happy
-Frame: 272 Pessoa com braços abaixados.
+Frame: 268 Emoção detectada - happy
+Frame: 272 Pessoa com os braços abaixados.
 Frame: 272 Pessoa olhando para frente
 Frame: 272 Pessoa olhando para o lado Esquerdo
-Frame: 272 happy
-Frame: 276 Pessoa com braços abaixados.
+Frame: 272 Emoção detectada - happy
+Frame: 276 Pessoa com os braços abaixados.
 Frame: 276 Pessoa olhando para frente
 Frame: 276 Pessoa olhando para o lado Esquerdo
-Frame: 276 happy
-Frame: 280 Pessoa com braços abaixados.
+Frame: 276 Emoção detectada - happy
+Frame: 280 Pessoa com os braços abaixados.
 Frame: 280 Pessoa olhando para frente
 Frame: 280 Pessoa olhando para o lado Esquerdo
-Frame: 280 happy
-Frame: 284 Pessoa com braços abaixados.
+Frame: 280 Emoção detectada - happy
+Frame: 284 Pessoa com os braços abaixados.
 Frame: 284 Pessoa olhando para frente
 Frame: 284 Pessoa olhando para o lado Esquerdo
-Frame: 284 happy
-Frame: 288 Pessoa com braços abaixados.
-Frame: 288 Pessoa olhando para frente
+Frame: 284 Emoção detectada - happy
+Frame: 288 Pessoa com os braços abaixados.
 Frame: 288 Pessoa olhando para o lado Esquerdo
-Frame: 288 happy
-Frame: 292 Pessoa com braços abaixados.
+Frame: 288 Emoção detectada - happy
+Frame: 292 Pessoa com os braços abaixados.
 Frame: 292 Pessoa olhando para frente
 Frame: 292 Pessoa olhando para o lado Esquerdo
-Frame: 292 happy
-Frame: 296 Pessoa com braços abaixados.
+Frame: 292 Emoção detectada - happy
+Frame: 296 Pessoa com os braços abaixados.
+Frame: 296 Pessoa olhando para frente
 Frame: 296 Pessoa olhando para o lado Esquerdo
-Frame: 296 happy
-Frame: 300 Pessoa com braços abaixados.
+Frame: 296 Emoção detectada - happy
+Frame: 300 Pessoa com os braços abaixados.
+Frame: 300 Pessoa olhando para frente
 Frame: 300 Pessoa olhando para o lado Esquerdo
-Frame: 300 happy
-Frame: 304 Pessoa com braços abaixados.
+Frame: 300 Emoção detectada - happy
+Frame: 304 Pessoa com os braços abaixados.
+Frame: 304 Pessoa olhando para frente
 Frame: 304 Pessoa olhando para o lado Esquerdo
-Frame: 304 happy
-Frame: 308 Pessoa com braços abaixados.
+Frame: 304 Emoção detectada - happy
+Frame: 308 Pessoa com os braços abaixados.
+Frame: 308 Pessoa olhando para frente
 Frame: 308 Pessoa olhando para o lado Esquerdo
-Frame: 308 happy
-Frame: 312 Pessoa com braços abaixados.
+Frame: 308 Emoção detectada - happy
+Frame: 312 Pessoa com os braços abaixados.
 Frame: 312 Pessoa olhando para o lado Esquerdo
-Frame: 312 happy
-Frame: 316 Pessoa com braços abaixados.
+Frame: 312 Emoção detectada - happy
+Frame: 316 Pessoa com os braços abaixados.
 Frame: 316 Pessoa olhando para o lado Esquerdo
-Frame: 316 happy
-Frame: 320 Pessoa com braços abaixados.
+Frame: 316 Emoção detectada - happy
+Frame: 320 Pessoa com os braços abaixados.
 Frame: 320 Pessoa olhando para o lado Esquerdo
-Frame: 320 happy
-Frame: 324 Pessoa com braços abaixados.
+Frame: 320 Emoção detectada - happy
+Frame: 324 Pessoa com os braços abaixados.
 Frame: 324 Pessoa olhando para o lado Esquerdo
-Frame: 324 happy
-Frame: 328 Pessoa com braços abaixados.
+Frame: 324 Movimento anômalo identificado.
+Frame: 324 Emoção detectada - happy
+Frame: 328 Pessoa com os braços abaixados.
 Frame: 328 Pessoa olhando para o lado Esquerdo
-Frame: 328 happy
-Frame: 332 Pessoa com braços abaixados.
+Frame: 328 Emoção detectada - happy
+Frame: 332 Pessoa com os braços abaixados.
 Frame: 332 Pessoa olhando para o lado Esquerdo
-Frame: 332 happy
-Frame: 336 Pessoa com braços abaixados.
+Frame: 332 Emoção detectada - happy
+Frame: 336 Pessoa com os braços abaixados.
 Frame: 336 Pessoa olhando para o lado Esquerdo
-Frame: 336 happy
-Frame: 340 Pessoa com braços abaixados.
+Frame: 336 Emoção detectada - happy
+Frame: 340 Pessoa com os braços abaixados.
 Frame: 340 Pessoa olhando para o lado Esquerdo
-Frame: 340 happy
-Frame: 344 Pessoa com braços abaixados.
+Frame: 340 Movimento anômalo identificado.
+Frame: 340 Emoção detectada - happy
+Frame: 344 Pessoa com os braços abaixados.
 Frame: 344 Pessoa olhando para o lado Esquerdo
-Frame: 344 happy
-Frame: 348 Pessoa com braços abaixados.
+Frame: 344 Emoção detectada - happy
+Frame: 348 Pessoa com os braços abaixados.
 Frame: 348 Pessoa olhando para o lado Esquerdo
-Frame: 348 happy
-Frame: 352 Pessoa com braços abaixados.
+Frame: 348 Emoção detectada - happy
+Frame: 352 Pessoa com os braços abaixados.
 Frame: 352 Pessoa olhando para o lado Esquerdo
-Frame: 352 happy
-Frame: 356 Pessoa com braços abaixados.
+Frame: 352 Emoção detectada - happy
+Frame: 356 Pessoa com os braços abaixados.
 Frame: 356 Pessoa olhando para o lado Esquerdo
-Frame: 356 happy
-Frame: 360 fear
-Frame: 364 fear
-Frame: 368 fear
-Frame: 372 fear
-Frame: 376 fear
-Frame: 380 fear
-Frame: 384 neutral
-Frame: 388 neutral
-Frame: 392 neutral
-Frame: 396 neutral
-Frame: 400 sad
-Frame: 404 neutral
-Frame: 408 sad
-Frame: 412 angry
-Frame: 416 sad
-Frame: 420 sad
-Frame: 424 sad
-Frame: 428 sad
-Frame: 432 happy
-Frame: 436 sad
-Frame: 440 sad
-Frame: 444 sad
-Frame: 448 sad
-Frame: 452 sad
-Frame: 456 sad
-Frame: 460 sad
-Frame: 464 sad
-Frame: 468 sad
-Frame: 472 sad
-Frame: 476 sad
-Frame: 480 sad
-Frame: 484 sad
-Frame: 488 sad
-Frame: 492 sad
-Frame: 496 sad
-Frame: 500 sad
-Frame: 504 sad
-Frame: 508 sad
-Frame: 512 sad
-Frame: 516 sad
-Frame: 520 neutral
-Frame: 524 neutral
-Frame: 528 neutral
-Frame: 532 neutral
-Frame: 536 neutral
-Frame: 540 angry
-Frame: 544 angry
-Frame: 548 fear
-Frame: 552 angry
+Frame: 356 Emoção detectada - happy
+Frame: 360 Emoção detectada - fear
+Frame: 364 Emoção detectada - fear
+Frame: 368 Emoção detectada - fear
+Frame: 372 Emoção detectada - fear
+Frame: 376 Emoção detectada - fear
+Frame: 380 Emoção detectada - fear
+Frame: 384 Emoção detectada - neutral
+Frame: 388 Emoção detectada - neutral
+Frame: 392 Emoção detectada - neutral
+Frame: 396 Emoção detectada - neutral
+Frame: 400 Emoção detectada - sad
+Frame: 404 Emoção detectada - neutral
+Frame: 408 Emoção detectada - sad
+Frame: 412 Emoção detectada - angry
+Frame: 416 Emoção detectada - sad
+Frame: 420 Emoção detectada - sad
+Frame: 424 Emoção detectada - sad
+Frame: 428 Emoção detectada - sad
+Frame: 432 Emoção detectada - happy
+Frame: 436 Emoção detectada - sad
+Frame: 440 Emoção detectada - sad
+Frame: 444 Emoção detectada - sad
+Frame: 448 Emoção detectada - sad
+Frame: 452 Emoção detectada - sad
+Frame: 456 Emoção detectada - sad
+Frame: 460 Emoção detectada - sad
+Frame: 464 Emoção detectada - sad
+Frame: 468 Emoção detectada - sad
+Frame: 472 Emoção detectada - sad
+Frame: 476 Emoção detectada - sad
+Frame: 480 Emoção detectada - sad
+Frame: 484 Emoção detectada - sad
+Frame: 488 Emoção detectada - sad
+Frame: 492 Emoção detectada - sad
+Frame: 496 Emoção detectada - sad
+Frame: 500 Emoção detectada - sad
+Frame: 504 Emoção detectada - sad
+Frame: 508 Emoção detectada - sad
+Frame: 512 Emoção detectada - sad
+Frame: 516 Emoção detectada - sad
+Frame: 520 Emoção detectada - neutral
+Frame: 524 Emoção detectada - neutral
+Frame: 528 Emoção detectada - neutral
+Frame: 532 Emoção detectada - neutral
+Frame: 536 Emoção detectada - neutral
+Frame: 540 Emoção detectada - angry
+Frame: 544 Emoção detectada - angry
+Frame: 548 Pessoa olhando para frente
+Frame: 548 Pessoa olhando para o lado Esquerdo
+Frame: 548 Movimento anômalo identificado.
+Frame: 548 Emoção detectada - fear
+Frame: 552 Pessoa olhando para o lado Esquerdo
+Frame: 552 Movimento anômalo identificado.
+Frame: 552 Emoção detectada - angry
 Frame: 556 Pessoa olhando para frente
 Frame: 556 Pessoa olhando para o lado Esquerdo
-Frame: 556 surprise
-Frame: 560 Pessoa com braços abaixados.
+Frame: 556 Movimento anômalo identificado.
+Frame: 556 Emoção detectada - angry
+Frame: 560 Pessoa com os braços abaixados.
 Frame: 560 Pessoa olhando para o lado Esquerdo
-Frame: 560 fear
+Frame: 560 Movimento anômalo identificado.
+Frame: 560 Emoção detectada - angry
 Frame: 564 Pessoa olhando para o lado Esquerdo
-Frame: 564 sad
+Frame: 564 Movimento anômalo identificado.
+Frame: 564 Emoção detectada - happy
 Frame: 568 Pessoa olhando para o lado Esquerdo
-Frame: 568 happy
+Frame: 568 Movimento anômalo identificado.
+Frame: 568 Emoção detectada - happy
 Frame: 572 Pessoa olhando para o lado Esquerdo
-Frame: 572 neutral
+Frame: 572 Movimento anômalo identificado.
+Frame: 572 Emoção detectada - angry
 Frame: 576 Pessoa olhando para o lado Esquerdo
-Frame: 576 sad
+Frame: 576 Movimento anômalo identificado.
+Frame: 576 Emoção detectada - angry
 Frame: 580 Pessoa olhando para o lado Esquerdo
-Frame: 580 fear
+Frame: 580 Movimento anômalo identificado.
+Frame: 580 Emoção detectada - fear
 Frame: 584 Pessoa olhando para o lado Esquerdo
-Frame: 584 fear
-Frame: 588 Braço levantado.
+Frame: 584 Movimento anômalo identificado.
+Frame: 584 Emoção detectada - neutral
+Frame: 588 Pessoa com os braços levantado.
 Frame: 588 Pessoa olhando para o lado Esquerdo
-Frame: 588 fear
-Frame: 592 Braço levantado.
+Frame: 588 Movimento anômalo identificado.
+Frame: 588 Emoção detectada - fear
 Frame: 592 Pessoa olhando para o lado Esquerdo
-Frame: 592 fear
-Frame: 596 Braço levantado.
+Frame: 592 Movimento anômalo identificado.
+Frame: 592 Emoção detectada - sad
+Frame: 596 Pessoa com os braços levantado.
 Frame: 596 Pessoa olhando para o lado Esquerdo
-Frame: 596 surprise
-Frame: 600 Braço levantado.
+Frame: 596 Movimento anômalo identificado.
+Frame: 596 Emoção detectada - happy
+Frame: 600 Pessoa com os braços levantado.
 Frame: 600 Pessoa olhando para frente
-Frame: 600 fear
-Frame: 604 Braço levantado.
-Frame: 604 happy
-Frame: 608 Braço levantado.
+Frame: 600 Movimento anômalo identificado.
+Frame: 600 Emoção detectada - fear
+Frame: 604 Pessoa com os braços levantado.
+Frame: 604 Movimento anômalo identificado.
+Frame: 604 Emoção detectada - happy
+Frame: 608 Pessoa com os braços levantado.
 Frame: 608 Pessoa olhando para o lado Direto
-Frame: 608 sad
+Frame: 608 Movimento anômalo identificado.
+Frame: 608 Emoção detectada - neutral
 Frame: 612 Pessoa olhando para o lado Direto
-Frame: 612 neutral
+Frame: 612 Movimento anômalo identificado.
+Frame: 612 Emoção detectada - neutral
 Frame: 616 Pessoa olhando para o lado Esquerdo
-Frame: 616 angry
+Frame: 616 Movimento anômalo identificado.
+Frame: 616 Emoção detectada - angry
 Frame: 620 Pessoa olhando para frente
 Frame: 620 Pessoa olhando para o lado Esquerdo
-Frame: 620 happy
+Frame: 620 Movimento anômalo identificado.
+Frame: 620 Emoção detectada - fear
 Frame: 624 Pessoa olhando para frente
 Frame: 624 Pessoa olhando para o lado Direto
-Frame: 624 angry
+Frame: 624 Emoção detectada - neutral
 Frame: 628 Pessoa olhando para o lado Direto
-Frame: 628 fear
+Frame: 628 Movimento anômalo identificado.
+Frame: 628 Emoção detectada - neutral
 Frame: 632 Pessoa olhando para o lado Direto
-Frame: 632 angry
+Frame: 632 Movimento anômalo identificado.
+Frame: 632 Emoção detectada - fear
 Frame: 636 Pessoa olhando para o lado Direto
-Frame: 636 neutral
+Frame: 636 Movimento anômalo identificado.
+Frame: 636 Emoção detectada - neutral
+Frame: 636 Emoção detectada - fear
 Frame: 640 Pessoa olhando para o lado Direto
-Frame: 640 angry
+Frame: 640 Movimento anômalo identificado.
+Frame: 640 Emoção detectada - angry
 Frame: 644 Pessoa olhando para o lado Direto
-Frame: 644 fear
+Frame: 644 Movimento anômalo identificado.
+Frame: 644 Emoção detectada - fear
 Frame: 648 Pessoa olhando para o lado Direto
-Frame: 648 angry
+Frame: 648 Movimento anômalo identificado.
+Frame: 648 Emoção detectada - sad
 Frame: 652 Pessoa olhando para o lado Direto
-Frame: 652 neutral
-Frame: 656 Pessoa com braços abaixados.
-Frame: 656 Pessoa olhando para o lado Esquerdo
-Frame: 656 angry
-Frame: 660 Pessoa com braços abaixados.
-Frame: 660 Pessoa olhando para frente
+Frame: 652 Movimento anômalo identificado.
+Frame: 652 Emoção detectada - neutral
+Frame: 656 Pessoa com os braços abaixados.
+Frame: 656 Pessoa olhando para o lado Direto
+Frame: 656 Emoção detectada - happy
+Frame: 660 Pessoa com os braços abaixados.
 Frame: 660 Pessoa olhando para o lado Direto
-Frame: 660 neutral
-Frame: 664 Pessoa com braços abaixados.
+Frame: 660 Movimento anômalo identificado.
+Frame: 660 Emoção detectada - neutral
 Frame: 664 Pessoa olhando para o lado Esquerdo
-Frame: 664 angry
-Frame: 668 Pessoa com braços abaixados.
+Frame: 664 Movimento anômalo identificado.
+Frame: 664 Emoção detectada - angry
 Frame: 668 Pessoa olhando para frente
 Frame: 668 Pessoa olhando para o lado Esquerdo
-Frame: 668 angry
-Frame: 672 Pessoa com braços abaixados.
+Frame: 668 Movimento anômalo identificado.
+Frame: 668 Emoção detectada - angry
 Frame: 672 Pessoa olhando para frente
 Frame: 672 Pessoa olhando para o lado Esquerdo
-Frame: 672 sad
+Frame: 672 Movimento anômalo identificado.
+Frame: 672 Emoção detectada - angry
 Frame: 676 Pessoa olhando para frente
 Frame: 676 Pessoa olhando para o lado Esquerdo
-Frame: 676 sad
+Frame: 676 Movimento anômalo identificado.
+Frame: 676 Emoção detectada - angry
 Frame: 680 Pessoa olhando para o lado Esquerdo
-Frame: 680 angry
+Frame: 680 Movimento anômalo identificado.
+Frame: 680 Emoção detectada - angry
 Frame: 684 Pessoa olhando para o lado Esquerdo
-Frame: 684 angry
+Frame: 684 Movimento anômalo identificado.
+Frame: 684 Emoção detectada - angry
 Frame: 688 Pessoa olhando para frente
 Frame: 688 Pessoa olhando para o lado Esquerdo
-Frame: 688 fear
+Frame: 688 Movimento anômalo identificado.
+Frame: 688 Emoção detectada - fear
 Frame: 692 Pessoa olhando para o lado Esquerdo
-Frame: 692 happy
+Frame: 692 Movimento anômalo identificado.
+Frame: 692 Emoção detectada - happy
 Frame: 696 Pessoa olhando para frente
 Frame: 696 Pessoa olhando para o lado Esquerdo
-Frame: 696 angry
+Frame: 696 Emoção detectada - fear
 Frame: 700 Pessoa olhando para frente
 Frame: 700 Pessoa olhando para o lado Esquerdo
-Frame: 700 sad
-Frame: 704 fear
+Frame: 700 Emoção detectada - sad
+Frame: 704 Emoção detectada - fear
 Frame: 708 Pessoa olhando para o lado Esquerdo
-Frame: 708 fear
+Frame: 708 Movimento anômalo identificado.
+Frame: 708 Emoção detectada - happy
 Frame: 712 Pessoa olhando para o lado Esquerdo
-Frame: 712 happy
+Frame: 712 Movimento anômalo identificado.
+Frame: 712 Emoção detectada - fear
 Frame: 716 Pessoa olhando para o lado Esquerdo
-Frame: 716 happy
-Frame: 720 Pessoa com braços abaixados.
+Frame: 716 Movimento anômalo identificado.
+Frame: 716 Emoção detectada - angry
+Frame: 720 Pessoa com os braços abaixados.
+Frame: 720 Pessoa olhando para frente
 Frame: 720 Pessoa olhando para o lado Esquerdo
-Frame: 720 neutral
-Frame: 724 Pessoa com braços abaixados.
+Frame: 720 Movimento anômalo identificado.
+Frame: 720 Emoção detectada - neutral
+Frame: 724 Pessoa com os braços abaixados.
 Frame: 724 Pessoa olhando para o lado Esquerdo
-Frame: 724 neutral
-Frame: 728 Pessoa com braços abaixados.
+Frame: 724 Emoção detectada - neutral
+Frame: 728 Pessoa com os braços abaixados.
 Frame: 728 Pessoa olhando para frente
 Frame: 728 Pessoa olhando para o lado Esquerdo
-Frame: 728 happy
-Frame: 732 Pessoa com braços abaixados.
+Frame: 728 Emoção detectada - neutral
+Frame: 732 Pessoa com os braços abaixados.
 Frame: 732 Pessoa olhando para frente
 Frame: 732 Pessoa olhando para o lado Esquerdo
-Frame: 732 angry
-Frame: 736 Pessoa com braços abaixados.
+Frame: 732 Emoção detectada - happy
+Frame: 736 Pessoa com os braços abaixados.
 Frame: 736 Pessoa olhando para frente
 Frame: 736 Pessoa olhando para o lado Esquerdo
-Frame: 736 happy
-Frame: 740 Pessoa com braços abaixados.
+Frame: 736 Emoção detectada - happy
+Frame: 740 Pessoa com os braços abaixados.
 Frame: 740 Pessoa olhando para frente
 Frame: 740 Pessoa olhando para o lado Esquerdo
-Frame: 740 neutral
-Frame: 744 Pessoa com braços abaixados.
+Frame: 740 Emoção detectada - happy
+Frame: 744 Pessoa com os braços abaixados.
 Frame: 744 Pessoa olhando para frente
 Frame: 744 Pessoa olhando para o lado Esquerdo
-Frame: 744 neutral
-Frame: 748 Pessoa com braços abaixados.
+Frame: 744 Emoção detectada - happy
+Frame: 748 Pessoa com os braços abaixados.
 Frame: 748 Pessoa olhando para frente
 Frame: 748 Pessoa olhando para o lado Esquerdo
-Frame: 748 surprise
-Frame: 752 Pessoa com braços abaixados.
+Frame: 748 Emoção detectada - neutral
+Frame: 752 Pessoa com os braços abaixados.
 Frame: 752 Pessoa olhando para frente
 Frame: 752 Pessoa olhando para o lado Esquerdo
-Frame: 752 angry
-Frame: 756 Pessoa com braços abaixados.
+Frame: 752 Emoção detectada - happy
+Frame: 756 Pessoa com os braços abaixados.
 Frame: 756 Pessoa olhando para frente
 Frame: 756 Pessoa olhando para o lado Esquerdo
-Frame: 756 neutral
-Frame: 760 Pessoa com braços abaixados.
+Frame: 756 Emoção detectada - neutral
+Frame: 760 Pessoa com os braços abaixados.
 Frame: 760 Pessoa olhando para frente
 Frame: 760 Pessoa olhando para o lado Esquerdo
-Frame: 760 neutral
-Frame: 764 Pessoa com braços abaixados.
+Frame: 760 Emoção detectada - neutral
+Frame: 764 Pessoa com os braços abaixados.
 Frame: 764 Pessoa olhando para frente
 Frame: 764 Pessoa olhando para o lado Esquerdo
-Frame: 764 neutral
-Frame: 768 Pessoa com braços abaixados.
+Frame: 764 Emoção detectada - neutral
+Frame: 768 Pessoa com os braços abaixados.
 Frame: 768 Pessoa olhando para frente
 Frame: 768 Pessoa olhando para o lado Esquerdo
-Frame: 768 neutral
-Frame: 772 Pessoa com braços abaixados.
+Frame: 768 Emoção detectada - surprise
+Frame: 772 Pessoa com os braços abaixados.
 Frame: 772 Pessoa olhando para frente
 Frame: 772 Pessoa olhando para o lado Esquerdo
-Frame: 772 angry
-Frame: 776 Pessoa com braços abaixados.
+Frame: 772 Emoção detectada - neutral
+Frame: 776 Pessoa com os braços abaixados.
 Frame: 776 Pessoa olhando para frente
 Frame: 776 Pessoa olhando para o lado Esquerdo
-Frame: 776 angry
-Frame: 780 Pessoa com braços abaixados.
+Frame: 776 Emoção detectada - surprise
+Frame: 780 Pessoa com os braços abaixados.
 Frame: 780 Pessoa olhando para frente
 Frame: 780 Pessoa olhando para o lado Esquerdo
-Frame: 780 angry
-Frame: 784 Pessoa com braços abaixados.
+Frame: 780 Emoção detectada - happy
+Frame: 784 Pessoa com os braços abaixados.
 Frame: 784 Pessoa olhando para frente
 Frame: 784 Pessoa olhando para o lado Esquerdo
-Frame: 784 neutral
-Frame: 788 Pessoa com braços abaixados.
+Frame: 784 Emoção detectada - neutral
+Frame: 788 Pessoa com os braços abaixados.
 Frame: 788 Pessoa olhando para frente
 Frame: 788 Pessoa olhando para o lado Esquerdo
-Frame: 788 happy
-Frame: 792 Pessoa com braços abaixados.
+Frame: 788 Emoção detectada - happy
+Frame: 792 Pessoa com os braços abaixados.
 Frame: 792 Pessoa olhando para frente
 Frame: 792 Pessoa olhando para o lado Esquerdo
-Frame: 792 neutral
-Frame: 796 Pessoa com braços abaixados.
+Frame: 792 Emoção detectada - neutral
+Frame: 796 Pessoa com os braços abaixados.
 Frame: 796 Pessoa olhando para frente
 Frame: 796 Pessoa olhando para o lado Esquerdo
-Frame: 796 happy
-Frame: 800 Pessoa com braços abaixados.
+Frame: 796 Emoção detectada - neutral
+Frame: 800 Pessoa com os braços abaixados.
 Frame: 800 Pessoa olhando para frente
 Frame: 800 Pessoa olhando para o lado Esquerdo
-Frame: 800 happy
-Frame: 804 Pessoa com braços abaixados.
+Frame: 800 Emoção detectada - neutral
+Frame: 804 Pessoa com os braços abaixados.
 Frame: 804 Pessoa olhando para frente
 Frame: 804 Pessoa olhando para o lado Esquerdo
-Frame: 804 neutral
-Frame: 808 Pessoa com braços abaixados.
+Frame: 804 Emoção detectada - angry
+Frame: 808 Pessoa com os braços abaixados.
 Frame: 808 Pessoa olhando para frente
 Frame: 808 Pessoa olhando para o lado Esquerdo
-Frame: 808 happy
-Frame: 812 Pessoa com braços abaixados.
+Frame: 808 Emoção detectada - angry
+Frame: 812 Pessoa com os braços abaixados.
 Frame: 812 Pessoa olhando para frente
 Frame: 812 Pessoa olhando para o lado Esquerdo
-Frame: 812 happy
-Frame: 816 Pessoa com braços abaixados.
+Frame: 812 Emoção detectada - angry
+Frame: 816 Pessoa com os braços abaixados.
 Frame: 816 Pessoa olhando para frente
 Frame: 816 Pessoa olhando para o lado Esquerdo
-Frame: 816 angry
-Frame: 820 Pessoa com braços abaixados.
+Frame: 816 Emoção detectada - happy
+Frame: 820 Pessoa com os braços abaixados.
 Frame: 820 Pessoa olhando para frente
 Frame: 820 Pessoa olhando para o lado Esquerdo
-Frame: 820 neutral
-Frame: 824 Pessoa com braços abaixados.
+Frame: 820 Emoção detectada - neutral
+Frame: 824 Pessoa com os braços abaixados.
 Frame: 824 Pessoa olhando para frente
 Frame: 824 Pessoa olhando para o lado Esquerdo
-Frame: 824 neutral
-Frame: 828 Pessoa com braços abaixados.
+Frame: 824 Emoção detectada - neutral
+Frame: 828 Pessoa com os braços abaixados.
 Frame: 828 Pessoa olhando para frente
 Frame: 828 Pessoa olhando para o lado Esquerdo
-Frame: 828 happy
-Frame: 832 Pessoa com braços abaixados.
+Frame: 828 Emoção detectada - angry
+Frame: 832 Pessoa com os braços abaixados.
 Frame: 832 Pessoa olhando para frente
 Frame: 832 Pessoa olhando para o lado Esquerdo
-Frame: 832 surprise
-Frame: 836 Pessoa com braços abaixados.
+Frame: 832 Emoção detectada - neutral
+Frame: 836 Pessoa com os braços abaixados.
 Frame: 836 Pessoa olhando para frente
 Frame: 836 Pessoa olhando para o lado Esquerdo
-Frame: 836 happy
-Frame: 840 Pessoa com braços abaixados.
+Frame: 836 Emoção detectada - happy
+Frame: 840 Pessoa com os braços abaixados.
 Frame: 840 Pessoa olhando para frente
 Frame: 840 Pessoa olhando para o lado Esquerdo
-Frame: 840 happy
-Frame: 844 Pessoa com braços abaixados.
+Frame: 840 Emoção detectada - happy
+Frame: 844 Pessoa com os braços abaixados.
 Frame: 844 Pessoa olhando para frente
 Frame: 844 Pessoa olhando para o lado Esquerdo
-Frame: 844 happy
-Frame: 848 Pessoa com braços abaixados.
+Frame: 844 Emoção detectada - happy
+Frame: 848 Pessoa com os braços abaixados.
 Frame: 848 Pessoa olhando para frente
 Frame: 848 Pessoa olhando para o lado Esquerdo
-Frame: 848 happy
-Frame: 852 Pessoa com braços abaixados.
+Frame: 848 Emoção detectada - happy
+Frame: 852 Pessoa com os braços abaixados.
 Frame: 852 Pessoa olhando para frente
 Frame: 852 Pessoa olhando para o lado Esquerdo
-Frame: 852 happy
-Frame: 856 Pessoa com braços abaixados.
+Frame: 852 Emoção detectada - happy
+Frame: 856 Pessoa com os braços abaixados.
 Frame: 856 Pessoa olhando para frente
 Frame: 856 Pessoa olhando para o lado Esquerdo
-Frame: 856 happy
-Frame: 860 Pessoa com braços abaixados.
+Frame: 856 Emoção detectada - happy
+Frame: 860 Pessoa com os braços abaixados.
 Frame: 860 Pessoa olhando para frente
 Frame: 860 Pessoa olhando para o lado Esquerdo
-Frame: 860 happy
-Frame: 864 Pessoa com braços abaixados.
+Frame: 860 Emoção detectada - happy
+Frame: 864 Pessoa com os braços abaixados.
 Frame: 864 Pessoa olhando para frente
 Frame: 864 Pessoa olhando para o lado Esquerdo
-Frame: 864 happy
-Frame: 868 Pessoa com braços abaixados.
+Frame: 864 Emoção detectada - happy
+Frame: 868 Pessoa com os braços abaixados.
 Frame: 868 Pessoa olhando para frente
 Frame: 868 Pessoa olhando para o lado Esquerdo
-Frame: 868 happy
-Frame: 872 Pessoa com braços abaixados.
+Frame: 868 Emoção detectada - happy
+Frame: 872 Pessoa com os braços abaixados.
 Frame: 872 Pessoa olhando para frente
 Frame: 872 Pessoa olhando para o lado Esquerdo
-Frame: 872 happy
-Frame: 876 Pessoa com braços abaixados.
+Frame: 872 Emoção detectada - happy
+Frame: 876 Pessoa com os braços abaixados.
 Frame: 876 Pessoa olhando para frente
 Frame: 876 Pessoa olhando para o lado Esquerdo
-Frame: 876 happy
-Frame: 880 Pessoa com braços abaixados.
+Frame: 876 Emoção detectada - happy
+Frame: 880 Pessoa com os braços abaixados.
 Frame: 880 Pessoa olhando para frente
 Frame: 880 Pessoa olhando para o lado Esquerdo
-Frame: 880 happy
-Frame: 884 Pessoa com braços abaixados.
+Frame: 880 Emoção detectada - happy
+Frame: 884 Pessoa com os braços abaixados.
 Frame: 884 Pessoa olhando para frente
 Frame: 884 Pessoa olhando para o lado Esquerdo
-Frame: 884 happy
-Frame: 888 Pessoa com braços abaixados.
+Frame: 884 Emoção detectada - happy
+Frame: 888 Pessoa com os braços abaixados.
 Frame: 888 Pessoa olhando para frente
 Frame: 888 Pessoa olhando para o lado Esquerdo
-Frame: 888 happy
-Frame: 892 Pessoa com braços abaixados.
+Frame: 888 Emoção detectada - happy
+Frame: 892 Pessoa com os braços abaixados.
 Frame: 892 Pessoa olhando para frente
 Frame: 892 Pessoa olhando para o lado Esquerdo
-Frame: 892 happy
-Frame: 896 Pessoa com braços abaixados.
+Frame: 892 Emoção detectada - happy
+Frame: 896 Pessoa com os braços abaixados.
 Frame: 896 Pessoa olhando para frente
 Frame: 896 Pessoa olhando para o lado Esquerdo
-Frame: 896 happy
+Frame: 896 Emoção detectada - happy
 Frame: 900 Pessoa olhando para frente
 Frame: 900 Pessoa olhando para o lado Esquerdo
-Frame: 900 surprise
+Frame: 900 Movimento anômalo identificado.
+Frame: 900 Emoção detectada - surprise
 Frame: 904 Pessoa olhando para frente
 Frame: 904 Pessoa olhando para o lado Esquerdo
-Frame: 904 surprise
+Frame: 904 Movimento anômalo identificado.
+Frame: 904 Emoção detectada - fear
 Frame: 908 Pessoa olhando para frente
 Frame: 908 Pessoa olhando para o lado Esquerdo
-Frame: 908 surprise
+Frame: 908 Emoção detectada - fear
 Frame: 912 Pessoa olhando para frente
 Frame: 912 Pessoa olhando para o lado Esquerdo
-Frame: 912 fear
+Frame: 912 Emoção detectada - surprise
 Frame: 916 Pessoa olhando para frente
 Frame: 916 Pessoa olhando para o lado Esquerdo
-Frame: 916 fear
+Frame: 916 Emoção detectada - surprise
 Frame: 920 Pessoa olhando para frente
 Frame: 920 Pessoa olhando para o lado Esquerdo
-Frame: 920 surprise
+Frame: 920 Emoção detectada - surprise
 Frame: 924 Pessoa olhando para frente
 Frame: 924 Pessoa olhando para o lado Esquerdo
-Frame: 924 surprise
+Frame: 924 Emoção detectada - surprise
 Frame: 928 Pessoa olhando para frente
 Frame: 928 Pessoa olhando para o lado Esquerdo
-Frame: 928 surprise
+Frame: 928 Emoção detectada - surprise
 Frame: 932 Pessoa olhando para frente
 Frame: 932 Pessoa olhando para o lado Esquerdo
-Frame: 932 surprise
+Frame: 932 Emoção detectada - fear
 Frame: 936 Pessoa olhando para frente
 Frame: 936 Pessoa olhando para o lado Esquerdo
-Frame: 936 surprise
+Frame: 936 Emoção detectada - surprise
 Frame: 940 Pessoa olhando para frente
 Frame: 940 Pessoa olhando para o lado Esquerdo
-Frame: 940 surprise
+Frame: 940 Emoção detectada - fear
 Frame: 944 Pessoa olhando para frente
 Frame: 944 Pessoa olhando para o lado Esquerdo
-Frame: 944 surprise
+Frame: 944 Emoção detectada - surprise
 Frame: 948 Pessoa olhando para frente
 Frame: 948 Pessoa olhando para o lado Esquerdo
-Frame: 948 surprise
+Frame: 948 Emoção detectada - surprise
 Frame: 952 Pessoa olhando para frente
 Frame: 952 Pessoa olhando para o lado Esquerdo
-Frame: 952 surprise
+Frame: 952 Emoção detectada - surprise
 Frame: 956 Pessoa olhando para frente
 Frame: 956 Pessoa olhando para o lado Esquerdo
-Frame: 956 surprise
+Frame: 956 Emoção detectada - surprise
 Frame: 960 Pessoa olhando para frente
 Frame: 960 Pessoa olhando para o lado Esquerdo
-Frame: 960 fear
+Frame: 960 Emoção detectada - surprise
 Frame: 964 Pessoa olhando para frente
 Frame: 964 Pessoa olhando para o lado Esquerdo
-Frame: 964 surprise
+Frame: 964 Emoção detectada - surprise
 Frame: 968 Pessoa olhando para frente
 Frame: 968 Pessoa olhando para o lado Esquerdo
-Frame: 968 surprise
+Frame: 968 Emoção detectada - fear
 Frame: 972 Pessoa olhando para frente
 Frame: 972 Pessoa olhando para o lado Esquerdo
-Frame: 972 surprise
+Frame: 972 Emoção detectada - surprise
 Frame: 976 Pessoa olhando para frente
 Frame: 976 Pessoa olhando para o lado Esquerdo
-Frame: 976 surprise
+Frame: 976 Emoção detectada - surprise
 Frame: 980 Pessoa olhando para frente
 Frame: 980 Pessoa olhando para o lado Esquerdo
-Frame: 980 surprise
+Frame: 980 Emoção detectada - surprise
 Frame: 984 Pessoa olhando para frente
 Frame: 984 Pessoa olhando para o lado Esquerdo
-Frame: 984 surprise
+Frame: 984 Emoção detectada - surprise
 Frame: 988 Pessoa olhando para frente
 Frame: 988 Pessoa olhando para o lado Esquerdo
-Frame: 988 surprise
+Frame: 988 Emoção detectada - surprise
 Frame: 992 Pessoa olhando para frente
 Frame: 992 Pessoa olhando para o lado Esquerdo
-Frame: 992 surprise
+Frame: 992 Emoção detectada - surprise
 Frame: 996 Pessoa olhando para frente
 Frame: 996 Pessoa olhando para o lado Esquerdo
-Frame: 996 surprise
+Frame: 996 Emoção detectada - surprise
 Frame: 1000 Pessoa olhando para frente
 Frame: 1000 Pessoa olhando para o lado Esquerdo
-Frame: 1000 surprise
+Frame: 1000 Emoção detectada - surprise
 Frame: 1004 Pessoa olhando para frente
 Frame: 1004 Pessoa olhando para o lado Esquerdo
-Frame: 1004 surprise
+Frame: 1004 Emoção detectada - surprise
 Frame: 1008 Pessoa olhando para frente
 Frame: 1008 Pessoa olhando para o lado Esquerdo
-Frame: 1008 surprise
+Frame: 1008 Emoção detectada - surprise
 Frame: 1012 Pessoa olhando para frente
 Frame: 1012 Pessoa olhando para o lado Esquerdo
-Frame: 1012 fear
+Frame: 1012 Emoção detectada - surprise
 Frame: 1016 Pessoa olhando para frente
 Frame: 1016 Pessoa olhando para o lado Esquerdo
-Frame: 1016 surprise
+Frame: 1016 Emoção detectada - fear
 Frame: 1020 Pessoa olhando para frente
 Frame: 1020 Pessoa olhando para o lado Esquerdo
-Frame: 1020 surprise
+Frame: 1020 Emoção detectada - fear
 Frame: 1024 Pessoa olhando para frente
 Frame: 1024 Pessoa olhando para o lado Esquerdo
-Frame: 1024 surprise
+Frame: 1024 Movimento anômalo identificado.
+Frame: 1024 Emoção detectada - fear
 Frame: 1028 Pessoa olhando para frente
 Frame: 1028 Pessoa olhando para o lado Esquerdo
-Frame: 1028 surprise
+Frame: 1028 Emoção detectada - fear
 Frame: 1032 Pessoa olhando para frente
 Frame: 1032 Pessoa olhando para o lado Esquerdo
-Frame: 1032 surprise
+Frame: 1032 Emoção detectada - fear
 Frame: 1036 Pessoa olhando para frente
 Frame: 1036 Pessoa olhando para o lado Esquerdo
-Frame: 1036 surprise
+Frame: 1036 Emoção detectada - surprise
 Frame: 1040 Pessoa olhando para frente
 Frame: 1040 Pessoa olhando para o lado Esquerdo
-Frame: 1040 surprise
+Frame: 1040 Emoção detectada - surprise
 Frame: 1044 Pessoa olhando para frente
 Frame: 1044 Pessoa olhando para o lado Esquerdo
-Frame: 1044 surprise
+Frame: 1044 Emoção detectada - surprise
 Frame: 1048 Pessoa olhando para frente
 Frame: 1048 Pessoa olhando para o lado Esquerdo
-Frame: 1048 fear
+Frame: 1048 Emoção detectada - fear
 Frame: 1052 Pessoa olhando para frente
 Frame: 1052 Pessoa olhando para o lado Esquerdo
-Frame: 1052 fear
+Frame: 1052 Emoção detectada - fear
 Frame: 1056 Pessoa olhando para frente
 Frame: 1056 Pessoa olhando para o lado Esquerdo
-Frame: 1056 surprise
+Frame: 1056 Emoção detectada - fear
 Frame: 1060 Pessoa olhando para frente
 Frame: 1060 Pessoa olhando para o lado Esquerdo
-Frame: 1060 fear
+Frame: 1060 Emoção detectada - surprise
 Frame: 1064 Pessoa olhando para frente
 Frame: 1064 Pessoa olhando para o lado Esquerdo
-Frame: 1064 fear
+Frame: 1064 Emoção detectada - surprise
 Frame: 1068 Pessoa olhando para frente
 Frame: 1068 Pessoa olhando para o lado Esquerdo
-Frame: 1068 surprise
+Frame: 1068 Emoção detectada - fear
 Frame: 1072 Pessoa olhando para frente
 Frame: 1072 Pessoa olhando para o lado Esquerdo
-Frame: 1072 fear
+Frame: 1072 Emoção detectada - surprise
 Frame: 1076 Pessoa olhando para frente
 Frame: 1076 Pessoa olhando para o lado Esquerdo
-Frame: 1076 fear
+Frame: 1076 Emoção detectada - fear
 Frame: 1080 Pessoa olhando para o lado Esquerdo
-Frame: 1080 sad
-Frame: 1084 Braço levantado.
-Frame: 1084 Pessoa deitada.
+Frame: 1080 Movimento anômalo identificado.
+Frame: 1080 Emoção detectada - sad
+Frame: 1084 Pessoa com os braços levantado.
 Frame: 1084 Pessoa olhando para o lado Esquerdo
-Frame: 1084 sad
-Frame: 1088 Braço levantado.
+Frame: 1084 Movimento anômalo identificado.
+Frame: 1084 Emoção detectada - sad
+Frame: 1088 Pessoa com os braços levantado.
 Frame: 1088 Pessoa olhando para o lado Direto
-Frame: 1088 sad
-Frame: 1092 Braço levantado.
+Frame: 1088 Movimento anômalo identificado.
+Frame: 1088 Emoção detectada - sad
+Frame: 1092 Pessoa com os braços levantado.
 Frame: 1092 Pessoa olhando para o lado Direto
-Frame: 1092 fear
-Frame: 1096 Braço levantado.
+Frame: 1092 Emoção detectada - sad
+Frame: 1096 Pessoa com os braços levantado.
 Frame: 1096 Pessoa olhando para o lado Direto
-Frame: 1096 sad
-Frame: 1100 Braço levantado.
+Frame: 1096 Emoção detectada - sad
+Frame: 1100 Pessoa com os braços levantado.
 Frame: 1100 Pessoa olhando para o lado Direto
-Frame: 1100 sad
-Frame: 1104 Braço levantado.
+Frame: 1100 Emoção detectada - sad
+Frame: 1104 Pessoa com os braços levantado.
 Frame: 1104 Pessoa olhando para o lado Direto
-Frame: 1104 sad
-Frame: 1108 Braço levantado.
+Frame: 1104 Emoção detectada - sad
+Frame: 1108 Pessoa com os braços levantado.
 Frame: 1108 Pessoa olhando para o lado Direto
-Frame: 1108 sad
-Frame: 1112 Braço levantado.
+Frame: 1108 Emoção detectada - sad
+Frame: 1112 Pessoa com os braços levantado.
 Frame: 1112 Pessoa olhando para o lado Direto
-Frame: 1112 happy
-Frame: 1116 Braço levantado.
+Frame: 1112 Emoção detectada - sad
+Frame: 1116 Pessoa com os braços levantado.
 Frame: 1116 Pessoa olhando para o lado Direto
-Frame: 1116 sad
-Frame: 1120 Braço levantado.
+Frame: 1116 Emoção detectada - sad
+Frame: 1120 Pessoa com os braços levantado.
 Frame: 1120 Pessoa olhando para o lado Direto
-Frame: 1120 sad
-Frame: 1124 Braço levantado.
+Frame: 1120 Emoção detectada - sad
+Frame: 1124 Pessoa com os braços levantado.
 Frame: 1124 Pessoa olhando para o lado Direto
-Frame: 1124 sad
-Frame: 1128 Braço levantado.
+Frame: 1124 Emoção detectada - happy
+Frame: 1128 Pessoa com os braços levantado.
 Frame: 1128 Pessoa olhando para o lado Direto
-Frame: 1128 sad
-Frame: 1132 Braço levantado.
+Frame: 1128 Emoção detectada - sad
+Frame: 1132 Pessoa com os braços levantado.
 Frame: 1132 Pessoa olhando para o lado Direto
-Frame: 1132 sad
-Frame: 1136 Braço levantado.
+Frame: 1132 Emoção detectada - sad
+Frame: 1136 Pessoa com os braços levantado.
 Frame: 1136 Pessoa olhando para o lado Direto
-Frame: 1136 sad
-Frame: 1140 Braço levantado.
+Frame: 1136 Emoção detectada - sad
+Frame: 1140 Pessoa com os braços levantado.
 Frame: 1140 Pessoa olhando para o lado Direto
-Frame: 1140 sad
-Frame: 1144 Braço levantado.
+Frame: 1140 Emoção detectada - happy
+Frame: 1144 Pessoa com os braços levantado.
 Frame: 1144 Pessoa olhando para o lado Direto
-Frame: 1144 sad
-Frame: 1148 Braço levantado.
+Frame: 1144 Emoção detectada - sad
+Frame: 1148 Pessoa com os braços levantado.
 Frame: 1148 Pessoa olhando para o lado Direto
-Frame: 1148 sad
-Frame: 1152 Braço levantado.
+Frame: 1148 Emoção detectada - sad
+Frame: 1152 Pessoa com os braços levantado.
 Frame: 1152 Pessoa olhando para o lado Direto
-Frame: 1152 sad
-Frame: 1156 Braço levantado.
+Frame: 1152 Emoção detectada - sad
+Frame: 1156 Pessoa com os braços levantado.
 Frame: 1156 Pessoa olhando para o lado Direto
-Frame: 1156 sad
-Frame: 1160 Braço levantado.
+Frame: 1156 Emoção detectada - sad
+Frame: 1160 Pessoa com os braços levantado.
 Frame: 1160 Pessoa olhando para o lado Direto
-Frame: 1160 sad
-Frame: 1164 Braço levantado.
+Frame: 1160 Emoção detectada - sad
+Frame: 1164 Pessoa com os braços levantado.
 Frame: 1164 Pessoa olhando para o lado Direto
-Frame: 1164 sad
-Frame: 1168 Braço levantado.
+Frame: 1164 Emoção detectada - happy
+Frame: 1168 Pessoa com os braços levantado.
 Frame: 1168 Pessoa olhando para o lado Direto
-Frame: 1168 fear
-Frame: 1172 Braço levantado.
+Frame: 1168 Emoção detectada - surprise
+Frame: 1172 Pessoa com os braços levantado.
 Frame: 1172 Pessoa olhando para o lado Direto
-Frame: 1172 sad
-Frame: 1176 Braço levantado.
+Frame: 1172 Emoção detectada - sad
+Frame: 1176 Pessoa com os braços levantado.
 Frame: 1176 Pessoa olhando para o lado Direto
-Frame: 1176 sad
-Frame: 1180 Braço levantado.
+Frame: 1176 Emoção detectada - surprise
+Frame: 1180 Pessoa com os braços levantado.
 Frame: 1180 Pessoa olhando para o lado Direto
-Frame: 1180 happy
-Frame: 1184 Braço levantado.
+Frame: 1180 Emoção detectada - sad
+Frame: 1184 Pessoa com os braços levantado.
 Frame: 1184 Pessoa olhando para o lado Direto
-Frame: 1184 sad
-Frame: 1188 Braço levantado.
+Frame: 1184 Emoção detectada - sad
+Frame: 1188 Pessoa com os braços levantado.
 Frame: 1188 Pessoa olhando para o lado Direto
-Frame: 1188 sad
-Frame: 1192 Braço levantado.
+Frame: 1188 Emoção detectada - sad
+Frame: 1192 Pessoa com os braços levantado.
 Frame: 1192 Pessoa olhando para o lado Direto
-Frame: 1192 sad
-Frame: 1196 Braço levantado.
+Frame: 1192 Emoção detectada - sad
+Frame: 1196 Pessoa com os braços levantado.
 Frame: 1196 Pessoa olhando para o lado Direto
-Frame: 1196 happy
-Frame: 1200 Braço levantado.
+Frame: 1196 Emoção detectada - sad
+Frame: 1200 Pessoa com os braços levantado.
 Frame: 1200 Pessoa olhando para o lado Direto
-Frame: 1200 sad
-Frame: 1204 Braço levantado.
+Frame: 1200 Emoção detectada - sad
+Frame: 1204 Pessoa com os braços levantado.
 Frame: 1204 Pessoa olhando para o lado Direto
-Frame: 1204 fear
-Frame: 1208 Braço levantado.
+Frame: 1204 Emoção detectada - sad
+Frame: 1208 Pessoa com os braços levantado.
 Frame: 1208 Pessoa olhando para o lado Direto
-Frame: 1208 fear
-Frame: 1212 Braço levantado.
+Frame: 1208 Emoção detectada - fear
+Frame: 1212 Pessoa com os braços levantado.
 Frame: 1212 Pessoa olhando para o lado Direto
-Frame: 1212 fear
-Frame: 1216 Braço levantado.
+Frame: 1212 Emoção detectada - sad
+Frame: 1216 Pessoa com os braços levantado.
 Frame: 1216 Pessoa olhando para o lado Direto
-Frame: 1216 fear
-Frame: 1220 Braço levantado.
+Frame: 1216 Movimento anômalo identificado.
+Frame: 1216 Emoção detectada - neutral
+Frame: 1220 Pessoa com os braços levantado.
 Frame: 1220 Pessoa olhando para o lado Direto
-Frame: 1220 happy
-Frame: 1224 Braço levantado.
-Frame: 1224 Pessoa com braços abaixados.
+Frame: 1220 Emoção detectada - happy
+Frame: 1224 Pessoa com os braços levantado.
+Frame: 1224 Pessoa com os braços abaixados.
 Frame: 1224 Pessoa olhando para o lado Direto
-Frame: 1224 happy
-Frame: 1228 Braço levantado.
-Frame: 1228 Pessoa com braços abaixados.
+Frame: 1224 Movimento anômalo identificado.
+Frame: 1224 Emoção detectada - neutral
+Frame: 1228 Pessoa com os braços levantado.
+Frame: 1228 Pessoa com os braços abaixados.
 Frame: 1228 Pessoa olhando para o lado Direto
-Frame: 1228 sad
-Frame: 1232 Braço levantado.
-Frame: 1232 Pessoa com braços abaixados.
+Frame: 1228 Emoção detectada - happy
+Frame: 1232 Pessoa com os braços levantado.
+Frame: 1232 Pessoa com os braços abaixados.
 Frame: 1232 Pessoa olhando para o lado Direto
-Frame: 1232 neutral
-Frame: 1236 Braço levantado.
-Frame: 1236 Pessoa com braços abaixados.
+Frame: 1232 Emoção detectada - fear
+Frame: 1236 Pessoa com os braços levantado.
+Frame: 1236 Pessoa com os braços abaixados.
 Frame: 1236 Pessoa olhando para o lado Direto
-Frame: 1236 fear
-Frame: 1240 Pessoa com braços abaixados.
+Frame: 1236 Emoção detectada - sad
+Frame: 1240 Pessoa com os braços levantado.
+Frame: 1240 Pessoa com os braços abaixados.
 Frame: 1240 Pessoa olhando para o lado Direto
-Frame: 1240 sad
-Frame: 1244 Pessoa com braços abaixados.
+Frame: 1240 Emoção detectada - happy
+Frame: 1244 Pessoa com os braços levantado.
+Frame: 1244 Pessoa com os braços abaixados.
 Frame: 1244 Pessoa olhando para o lado Direto
-Frame: 1244 fear
-Frame: 1248 Braço levantado.
-Frame: 1248 Pessoa com braços abaixados.
+Frame: 1244 Emoção detectada - fear
+Frame: 1248 Pessoa com os braços levantado.
+Frame: 1248 Pessoa com os braços abaixados.
 Frame: 1248 Pessoa olhando para o lado Direto
-Frame: 1248 fear
-Frame: 1252 Braço levantado.
-Frame: 1252 Pessoa com braços abaixados.
+Frame: 1248 Emoção detectada - sad
+Frame: 1252 Pessoa com os braços levantado.
+Frame: 1252 Pessoa com os braços abaixados.
 Frame: 1252 Pessoa olhando para o lado Direto
-Frame: 1252 neutral
-Frame: 1256 Braço levantado.
-Frame: 1256 Pessoa com braços abaixados.
+Frame: 1252 Emoção detectada - sad
+Frame: 1256 Pessoa com os braços levantado.
+Frame: 1256 Pessoa com os braços abaixados.
 Frame: 1256 Pessoa olhando para o lado Direto
-Frame: 1256 sad
-Frame: 1260 Braço levantado.
+Frame: 1256 Emoção detectada - sad
+Frame: 1260 Pessoa com os braços levantado.
 Frame: 1260 Pessoa olhando para o lado Esquerdo
-Frame: 1260 happy
-Frame: 1264 Braço levantado.
+Frame: 1260 Movimento anômalo identificado.
+Frame: 1260 Emoção detectada - neutral
 Frame: 1264 Pessoa olhando para o lado Esquerdo
-Frame: 1264 neutral
-Frame: 1268 Braço levantado.
-Frame: 1268 Pessoa olhando para o lado Esquerdo
-Frame: 1268 angry
-Frame: 1272 neutral
-Frame: 1276 angry
-Frame: 1280 angry
-Frame: 1284 angry
-Frame: 1288 neutral
-Frame: 1292 neutral
-Frame: 1296 angry
-Frame: 1300 neutral
-Frame: 1304 fear
-Frame: 1308 sad
-Frame: 1312 fear
-Frame: 1316 fear
-Frame: 1320 neutral
-Frame: 1324 Pessoa com braços abaixados.
+Frame: 1264 Movimento anômalo identificado.
+Frame: 1264 Emoção detectada - happy
+Frame: 1268 Pessoa com os braços levantado.
+Frame: 1268 Pessoa olhando para o lado Direto
+Frame: 1268 Movimento anômalo identificado.
+Frame: 1268 Emoção detectada - neutral
+Frame: 1272 Emoção detectada - neutral
+Frame: 1276 Emoção detectada - angry
+Frame: 1280 Emoção detectada - angry
+Frame: 1284 Emoção detectada - angry
+Frame: 1288 Emoção detectada - neutral
+Frame: 1292 Emoção detectada - neutral
+Frame: 1296 Emoção detectada - angry
+Frame: 1300 Emoção detectada - neutral
+Frame: 1304 Emoção detectada - fear
+Frame: 1308 Emoção detectada - sad
+Frame: 1312 Emoção detectada - fear
+Frame: 1316 Emoção detectada - fear
+Frame: 1320 Emoção detectada - neutral
+Frame: 1324 Pessoa com os braços abaixados.
 Frame: 1324 Pessoa olhando para frente
 Frame: 1324 Pessoa olhando para o lado Esquerdo
-Frame: 1324 neutral
-Frame: 1328 Pessoa com braços abaixados.
+Frame: 1324 Movimento anômalo identificado.
+Frame: 1324 Emoção detectada - happy
+Frame: 1328 Pessoa com os braços abaixados.
 Frame: 1328 Pessoa olhando para frente
 Frame: 1328 Pessoa olhando para o lado Esquerdo
-Frame: 1328 neutral
-Frame: 1332 Pessoa com braços abaixados.
+Frame: 1328 Movimento anômalo identificado.
+Frame: 1328 Emoção detectada - neutral
+Frame: 1332 Pessoa com os braços abaixados.
 Frame: 1332 Pessoa olhando para frente
 Frame: 1332 Pessoa olhando para o lado Esquerdo
-Frame: 1332 happy
-Frame: 1336 Pessoa com braços abaixados.
+Frame: 1332 Emoção detectada - neutral
+Frame: 1336 Pessoa com os braços abaixados.
 Frame: 1336 Pessoa olhando para frente
 Frame: 1336 Pessoa olhando para o lado Esquerdo
-Frame: 1336 happy
-Frame: 1340 Pessoa com braços abaixados.
+Frame: 1336 Emoção detectada - neutral
+Frame: 1340 Pessoa com os braços abaixados.
 Frame: 1340 Pessoa olhando para frente
 Frame: 1340 Pessoa olhando para o lado Esquerdo
-Frame: 1340 happy
-Frame: 1344 neutral
-Frame: 1348 neutral
-Frame: 1352 neutral
-Frame: 1356 sad
-Frame: 1360 sad
-Frame: 1364 fear
-Frame: 1368 angry
-Frame: 1372 neutral
-Frame: 1376 fear
-Frame: 1380 neutral
-Frame: 1384 angry
-Frame: 1388 neutral
-Frame: 1392 neutral
-Frame: 1396 neutral
-Frame: 1400 neutral
-Frame: 1404 neutral
-Frame: 1408 neutral
-Frame: 1412 sad
-Frame: 1416 sad
-Frame: 1420 sad
-Frame: 1424 neutral
-Frame: 1428 fear
-Frame: 1432 fear
-Frame: 1436 neutral
-Frame: 1440 Pessoa com braços abaixados.
+Frame: 1340 Emoção detectada - neutral
+Frame: 1344 Emoção detectada - neutral
+Frame: 1348 Emoção detectada - neutral
+Frame: 1352 Emoção detectada - neutral
+Frame: 1356 Emoção detectada - sad
+Frame: 1360 Emoção detectada - sad
+Frame: 1364 Emoção detectada - fear
+Frame: 1368 Emoção detectada - angry
+Frame: 1372 Emoção detectada - neutral
+Frame: 1376 Emoção detectada - fear
+Frame: 1380 Emoção detectada - neutral
+Frame: 1384 Emoção detectada - angry
+Frame: 1388 Emoção detectada - neutral
+Frame: 1392 Emoção detectada - neutral
+Frame: 1396 Emoção detectada - neutral
+Frame: 1400 Emoção detectada - neutral
+Frame: 1404 Emoção detectada - neutral
+Frame: 1408 Emoção detectada - neutral
+Frame: 1412 Emoção detectada - sad
+Frame: 1416 Emoção detectada - sad
+Frame: 1420 Emoção detectada - sad
+Frame: 1424 Emoção detectada - neutral
+Frame: 1428 Emoção detectada - fear
+Frame: 1432 Emoção detectada - fear
+Frame: 1436 Emoção detectada - neutral
+Frame: 1440 Pessoa com os braços abaixados.
 Frame: 1440 Pessoa olhando para frente
 Frame: 1440 Pessoa olhando para o lado Esquerdo
-Frame: 1440 happy
-Frame: 1444 Pessoa com braços abaixados.
+Frame: 1440 Movimento anômalo identificado.
+Frame: 1440 Emoção detectada - neutral
+Frame: 1444 Pessoa com os braços abaixados.
 Frame: 1444 Pessoa olhando para frente
 Frame: 1444 Pessoa olhando para o lado Esquerdo
-Frame: 1444 fear
-Frame: 1448 Pessoa com braços abaixados.
+Frame: 1444 Emoção detectada - happy
+Frame: 1448 Pessoa com os braços abaixados.
 Frame: 1448 Pessoa olhando para frente
 Frame: 1448 Pessoa olhando para o lado Esquerdo
-Frame: 1448 neutral
-Frame: 1452 Pessoa com braços abaixados.
+Frame: 1448 Emoção detectada - happy
+Frame: 1452 Pessoa com os braços abaixados.
 Frame: 1452 Pessoa olhando para frente
 Frame: 1452 Pessoa olhando para o lado Esquerdo
-Frame: 1452 happy
-Frame: 1456 Pessoa com braços abaixados.
+Frame: 1452 Emoção detectada - happy
+Frame: 1456 Pessoa com os braços abaixados.
 Frame: 1456 Pessoa olhando para frente
 Frame: 1456 Pessoa olhando para o lado Esquerdo
-Frame: 1456 neutral
-Frame: 1460 Pessoa com braços abaixados.
+Frame: 1456 Emoção detectada - happy
+Frame: 1460 Pessoa com os braços abaixados.
 Frame: 1460 Pessoa olhando para frente
 Frame: 1460 Pessoa olhando para o lado Esquerdo
-Frame: 1460 happy
-Frame: 1464 Pessoa com braços abaixados.
+Frame: 1460 Emoção detectada - happy
+Frame: 1464 Pessoa com os braços abaixados.
 Frame: 1464 Pessoa olhando para frente
 Frame: 1464 Pessoa olhando para o lado Esquerdo
-Frame: 1464 happy
-Frame: 1468 Pessoa com braços abaixados.
+Frame: 1464 Emoção detectada - happy
+Frame: 1468 Pessoa com os braços abaixados.
 Frame: 1468 Pessoa olhando para frente
 Frame: 1468 Pessoa olhando para o lado Esquerdo
-Frame: 1468 happy
-Frame: 1472 Pessoa com braços abaixados.
+Frame: 1468 Emoção detectada - happy
+Frame: 1472 Pessoa com os braços abaixados.
 Frame: 1472 Pessoa olhando para frente
 Frame: 1472 Pessoa olhando para o lado Esquerdo
-Frame: 1472 happy
-Frame: 1476 Pessoa com braços abaixados.
+Frame: 1472 Emoção detectada - happy
+Frame: 1476 Pessoa com os braços abaixados.
 Frame: 1476 Pessoa olhando para frente
 Frame: 1476 Pessoa olhando para o lado Esquerdo
-Frame: 1476 happy
-Frame: 1480 Pessoa com braços abaixados.
+Frame: 1476 Emoção detectada - happy
+Frame: 1480 Pessoa com os braços abaixados.
 Frame: 1480 Pessoa olhando para frente
 Frame: 1480 Pessoa olhando para o lado Esquerdo
-Frame: 1480 happy
-Frame: 1484 Pessoa com braços abaixados.
+Frame: 1480 Emoção detectada - happy
+Frame: 1484 Pessoa com os braços abaixados.
 Frame: 1484 Pessoa olhando para frente
 Frame: 1484 Pessoa olhando para o lado Esquerdo
-Frame: 1484 happy
-Frame: 1488 Pessoa com braços abaixados.
+Frame: 1484 Emoção detectada - happy
+Frame: 1488 Pessoa com os braços abaixados.
 Frame: 1488 Pessoa olhando para frente
 Frame: 1488 Pessoa olhando para o lado Esquerdo
-Frame: 1488 happy
-Frame: 1492 Pessoa com braços abaixados.
+Frame: 1488 Emoção detectada - happy
+Frame: 1492 Pessoa com os braços abaixados.
 Frame: 1492 Pessoa olhando para frente
 Frame: 1492 Pessoa olhando para o lado Esquerdo
-Frame: 1492 surprise
-Frame: 1496 Pessoa com braços abaixados.
+Frame: 1492 Emoção detectada - happy
+Frame: 1496 Pessoa com os braços abaixados.
 Frame: 1496 Pessoa olhando para frente
 Frame: 1496 Pessoa olhando para o lado Esquerdo
-Frame: 1496 happy
-Frame: 1500 Pessoa com braços abaixados.
+Frame: 1496 Emoção detectada - happy
+Frame: 1500 Pessoa com os braços abaixados.
 Frame: 1500 Pessoa olhando para frente
 Frame: 1500 Pessoa olhando para o lado Esquerdo
-Frame: 1500 happy
-Frame: 1504 Pessoa com braços abaixados.
+Frame: 1500 Emoção detectada - happy
+Frame: 1504 Pessoa com os braços abaixados.
 Frame: 1504 Pessoa olhando para frente
 Frame: 1504 Pessoa olhando para o lado Esquerdo
-Frame: 1504 surprise
+Frame: 1504 Movimento anômalo identificado.
+Frame: 1504 Emoção detectada - happy
 Frame: 1508 Pessoa olhando para frente
 Frame: 1508 Pessoa olhando para o lado Esquerdo
-Frame: 1508 happy
+Frame: 1508 Movimento anômalo identificado.
+Frame: 1508 Emoção detectada - happy
 Frame: 1512 Pessoa olhando para frente
 Frame: 1512 Pessoa olhando para o lado Esquerdo
-Frame: 1512 happy
-Frame: 1516 Pessoa com braços abaixados.
+Frame: 1512 Emoção detectada - happy
 Frame: 1516 Pessoa olhando para frente
 Frame: 1516 Pessoa olhando para o lado Esquerdo
-Frame: 1516 happy
-Frame: 1520 Pessoa com braços abaixados.
+Frame: 1516 Movimento anômalo identificado.
+Frame: 1516 Emoção detectada - happy
+Frame: 1520 Pessoa com os braços abaixados.
 Frame: 1520 Pessoa olhando para frente
 Frame: 1520 Pessoa olhando para o lado Esquerdo
-Frame: 1520 happy
-Frame: 1524 Pessoa com braços abaixados.
+Frame: 1520 Movimento anômalo identificado.
+Frame: 1520 Emoção detectada - happy
+Frame: 1524 Pessoa com os braços abaixados.
 Frame: 1524 Pessoa olhando para frente
 Frame: 1524 Pessoa olhando para o lado Esquerdo
-Frame: 1524 sad
-Frame: 1528 Pessoa com braços abaixados.
+Frame: 1524 Emoção detectada - sad
+Frame: 1528 Pessoa com os braços abaixados.
 Frame: 1528 Pessoa olhando para frente
 Frame: 1528 Pessoa olhando para o lado Esquerdo
-Frame: 1528 neutral
-Frame: 1532 Pessoa com braços abaixados.
+Frame: 1528 Emoção detectada - angry
+Frame: 1532 Pessoa com os braços abaixados.
 Frame: 1532 Pessoa olhando para frente
 Frame: 1532 Pessoa olhando para o lado Esquerdo
-Frame: 1532 happy
-Frame: 1536 Pessoa com braços abaixados.
+Frame: 1532 Emoção detectada - happy
+Frame: 1536 Pessoa com os braços abaixados.
 Frame: 1536 Pessoa olhando para frente
 Frame: 1536 Pessoa olhando para o lado Esquerdo
-Frame: 1536 happy
-Frame: 1540 Pessoa com braços abaixados.
+Frame: 1536 Emoção detectada - happy
+Frame: 1540 Pessoa com os braços abaixados.
 Frame: 1540 Pessoa olhando para frente
 Frame: 1540 Pessoa olhando para o lado Esquerdo
-Frame: 1540 happy
-Frame: 1544 Pessoa com braços abaixados.
+Frame: 1540 Emoção detectada - happy
+Frame: 1544 Pessoa com os braços abaixados.
 Frame: 1544 Pessoa olhando para frente
 Frame: 1544 Pessoa olhando para o lado Esquerdo
-Frame: 1544 happy
-Frame: 1548 Pessoa com braços abaixados.
+Frame: 1544 Emoção detectada - happy
+Frame: 1548 Pessoa com os braços abaixados.
 Frame: 1548 Pessoa olhando para frente
 Frame: 1548 Pessoa olhando para o lado Esquerdo
-Frame: 1548 happy
-Frame: 1552 Pessoa com braços abaixados.
+Frame: 1548 Emoção detectada - happy
+Frame: 1552 Pessoa com os braços abaixados.
 Frame: 1552 Pessoa olhando para frente
 Frame: 1552 Pessoa olhando para o lado Esquerdo
-Frame: 1552 happy
-Frame: 1556 Pessoa com braços abaixados.
+Frame: 1552 Emoção detectada - happy
+Frame: 1556 Pessoa com os braços abaixados.
 Frame: 1556 Pessoa olhando para frente
 Frame: 1556 Pessoa olhando para o lado Esquerdo
-Frame: 1556 surprise
-Frame: 1560 Pessoa com braços abaixados.
+Frame: 1556 Emoção detectada - surprise
+Frame: 1560 Pessoa com os braços abaixados.
 Frame: 1560 Pessoa olhando para frente
 Frame: 1560 Pessoa olhando para o lado Esquerdo
-Frame: 1560 fear
-Frame: 1564 Pessoa com braços abaixados.
+Frame: 1560 Emoção detectada - angry
+Frame: 1564 Pessoa com os braços abaixados.
 Frame: 1564 Pessoa olhando para frente
 Frame: 1564 Pessoa olhando para o lado Esquerdo
-Frame: 1564 surprise
-Frame: 1568 Pessoa com braços abaixados.
+Frame: 1564 Emoção detectada - surprise
+Frame: 1568 Pessoa com os braços abaixados.
 Frame: 1568 Pessoa olhando para frente
 Frame: 1568 Pessoa olhando para o lado Esquerdo
-Frame: 1568 surprise
-Frame: 1572 Pessoa com braços abaixados.
+Frame: 1568 Emoção detectada - happy
+Frame: 1572 Pessoa com os braços abaixados.
 Frame: 1572 Pessoa olhando para frente
 Frame: 1572 Pessoa olhando para o lado Esquerdo
-Frame: 1572 happy
-Frame: 1576 Pessoa com braços abaixados.
+Frame: 1572 Emoção detectada - happy
+Frame: 1576 Pessoa com os braços abaixados.
 Frame: 1576 Pessoa olhando para frente
 Frame: 1576 Pessoa olhando para o lado Esquerdo
-Frame: 1576 fear
-Frame: 1580 Pessoa com braços abaixados.
+Frame: 1576 Emoção detectada - fear
+Frame: 1580 Pessoa com os braços abaixados.
 Frame: 1580 Pessoa olhando para frente
 Frame: 1580 Pessoa olhando para o lado Esquerdo
-Frame: 1580 happy
-Frame: 1584 Pessoa com braços abaixados.
+Frame: 1580 Emoção detectada - happy
+Frame: 1584 Pessoa com os braços abaixados.
 Frame: 1584 Pessoa olhando para frente
 Frame: 1584 Pessoa olhando para o lado Esquerdo
-Frame: 1584 happy
-Frame: 1588 Pessoa com braços abaixados.
+Frame: 1584 Emoção detectada - happy
+Frame: 1588 Pessoa com os braços abaixados.
 Frame: 1588 Pessoa olhando para frente
 Frame: 1588 Pessoa olhando para o lado Esquerdo
-Frame: 1588 happy
-Frame: 1592 Pessoa com braços abaixados.
+Frame: 1588 Emoção detectada - happy
+Frame: 1592 Pessoa com os braços abaixados.
 Frame: 1592 Pessoa olhando para frente
 Frame: 1592 Pessoa olhando para o lado Esquerdo
-Frame: 1592 happy
-Frame: 1596 Pessoa com braços abaixados.
+Frame: 1592 Emoção detectada - surprise
+Frame: 1596 Pessoa com os braços abaixados.
 Frame: 1596 Pessoa olhando para frente
 Frame: 1596 Pessoa olhando para o lado Esquerdo
-Frame: 1596 happy
-Frame: 1600 Pessoa com braços abaixados.
+Frame: 1596 Emoção detectada - surprise
+Frame: 1600 Pessoa com os braços abaixados.
 Frame: 1600 Pessoa olhando para frente
 Frame: 1600 Pessoa olhando para o lado Esquerdo
-Frame: 1600 surprise
-Frame: 1604 Pessoa com braços abaixados.
+Frame: 1600 Emoção detectada - fear
+Frame: 1604 Pessoa com os braços abaixados.
 Frame: 1604 Pessoa olhando para frente
 Frame: 1604 Pessoa olhando para o lado Esquerdo
-Frame: 1604 surprise
-Frame: 1608 Pessoa com braços abaixados.
+Frame: 1604 Emoção detectada - fear
+Frame: 1608 Pessoa com os braços abaixados.
 Frame: 1608 Pessoa olhando para frente
 Frame: 1608 Pessoa olhando para o lado Esquerdo
-Frame: 1608 surprise
-Frame: 1612 Pessoa com braços abaixados.
+Frame: 1608 Emoção detectada - surprise
+Frame: 1612 Pessoa com os braços abaixados.
 Frame: 1612 Pessoa olhando para frente
 Frame: 1612 Pessoa olhando para o lado Esquerdo
-Frame: 1612 happy
-Frame: 1616 Pessoa com braços abaixados.
+Frame: 1612 Emoção detectada - happy
+Frame: 1616 Pessoa com os braços abaixados.
 Frame: 1616 Pessoa olhando para frente
 Frame: 1616 Pessoa olhando para o lado Esquerdo
-Frame: 1616 surprise
-Frame: 1620 Pessoa com braços abaixados.
+Frame: 1616 Emoção detectada - surprise
+Frame: 1620 Pessoa com os braços abaixados.
 Frame: 1620 Pessoa olhando para frente
 Frame: 1620 Pessoa olhando para o lado Esquerdo
-Frame: 1620 neutral
-Frame: 1624 Pessoa com braços abaixados.
+Frame: 1620 Movimento anômalo identificado.
+Frame: 1620 Emoção detectada - neutral
+Frame: 1624 Pessoa com os braços abaixados.
 Frame: 1624 Pessoa olhando para frente
 Frame: 1624 Pessoa olhando para o lado Esquerdo
-Frame: 1624 sad
-Frame: 1628 Pessoa com braços abaixados.
+Frame: 1624 Movimento anômalo identificado.
+Frame: 1624 Emoção detectada - neutral
+Frame: 1628 Pessoa com os braços abaixados.
 Frame: 1628 Pessoa olhando para frente
 Frame: 1628 Pessoa olhando para o lado Esquerdo
-Frame: 1628 neutral
-Frame: 1632 Pessoa com braços abaixados.
+Frame: 1628 Emoção detectada - neutral
+Frame: 1632 Pessoa com os braços abaixados.
 Frame: 1632 Pessoa olhando para frente
 Frame: 1632 Pessoa olhando para o lado Esquerdo
-Frame: 1632 neutral
-Frame: 1636 Pessoa com braços abaixados.
+Frame: 1632 Emoção detectada - neutral
+Frame: 1636 Pessoa com os braços abaixados.
 Frame: 1636 Pessoa olhando para frente
 Frame: 1636 Pessoa olhando para o lado Esquerdo
-Frame: 1636 neutral
-Frame: 1640 Pessoa com braços abaixados.
+Frame: 1636 Emoção detectada - neutral
+Frame: 1640 Pessoa com os braços abaixados.
 Frame: 1640 Pessoa olhando para frente
 Frame: 1640 Pessoa olhando para o lado Esquerdo
-Frame: 1640 neutral
-Frame: 1644 Pessoa com braços abaixados.
+Frame: 1640 Emoção detectada - neutral
+Frame: 1644 Pessoa com os braços abaixados.
 Frame: 1644 Pessoa olhando para frente
 Frame: 1644 Pessoa olhando para o lado Esquerdo
-Frame: 1644 neutral
-Frame: 1648 Pessoa com braços abaixados.
+Frame: 1644 Emoção detectada - neutral
+Frame: 1648 Pessoa com os braços abaixados.
 Frame: 1648 Pessoa olhando para frente
 Frame: 1648 Pessoa olhando para o lado Esquerdo
-Frame: 1648 neutral
-Frame: 1652 Pessoa com braços abaixados.
+Frame: 1648 Emoção detectada - sad
+Frame: 1652 Pessoa com os braços abaixados.
 Frame: 1652 Pessoa olhando para frente
 Frame: 1652 Pessoa olhando para o lado Esquerdo
-Frame: 1652 neutral
-Frame: 1656 Pessoa com braços abaixados.
+Frame: 1652 Emoção detectada - neutral
+Frame: 1656 Pessoa com os braços abaixados.
 Frame: 1656 Pessoa olhando para frente
 Frame: 1656 Pessoa olhando para o lado Esquerdo
-Frame: 1656 sad
-Frame: 1660 Pessoa com braços abaixados.
+Frame: 1656 Emoção detectada - fear
+Frame: 1660 Pessoa com os braços abaixados.
 Frame: 1660 Pessoa olhando para frente
 Frame: 1660 Pessoa olhando para o lado Esquerdo
-Frame: 1660 fear
-Frame: 1664 Pessoa com braços abaixados.
+Frame: 1660 Emoção detectada - angry
+Frame: 1664 Pessoa com os braços abaixados.
 Frame: 1664 Pessoa olhando para frente
 Frame: 1664 Pessoa olhando para o lado Esquerdo
-Frame: 1664 neutral
-Frame: 1668 Pessoa com braços abaixados.
+Frame: 1664 Movimento anômalo identificado.
+Frame: 1664 Emoção detectada - neutral
+Frame: 1668 Pessoa com os braços abaixados.
 Frame: 1668 Pessoa olhando para frente
 Frame: 1668 Pessoa olhando para o lado Esquerdo
-Frame: 1668 neutral
-Frame: 1672 Pessoa com braços abaixados.
+Frame: 1668 Emoção detectada - neutral
+Frame: 1672 Pessoa com os braços abaixados.
 Frame: 1672 Pessoa olhando para frente
 Frame: 1672 Pessoa olhando para o lado Esquerdo
-Frame: 1672 neutral
-Frame: 1676 Pessoa com braços abaixados.
+Frame: 1672 Emoção detectada - fear
+Frame: 1676 Pessoa com os braços abaixados.
 Frame: 1676 Pessoa olhando para frente
 Frame: 1676 Pessoa olhando para o lado Esquerdo
-Frame: 1676 angry
-Frame: 1680 Pessoa com braços abaixados.
+Frame: 1676 Emoção detectada - surprise
+Frame: 1680 Pessoa com os braços abaixados.
 Frame: 1680 Pessoa olhando para frente
 Frame: 1680 Pessoa olhando para o lado Esquerdo
-Frame: 1680 neutral
-Frame: 1684 Pessoa com braços abaixados.
+Frame: 1680 Emoção detectada - neutral
+Frame: 1684 Pessoa com os braços abaixados.
 Frame: 1684 Pessoa olhando para frente
 Frame: 1684 Pessoa olhando para o lado Esquerdo
-Frame: 1684 fear
-Frame: 1688 Pessoa com braços abaixados.
+Frame: 1684 Emoção detectada - neutral
+Frame: 1688 Pessoa com os braços abaixados.
 Frame: 1688 Pessoa olhando para frente
 Frame: 1688 Pessoa olhando para o lado Esquerdo
-Frame: 1688 sad
-Frame: 1692 Pessoa com braços abaixados.
+Frame: 1688 Emoção detectada - sad
+Frame: 1692 Pessoa com os braços abaixados.
 Frame: 1692 Pessoa olhando para frente
 Frame: 1692 Pessoa olhando para o lado Esquerdo
-Frame: 1692 surprise
-Frame: 1696 Pessoa com braços abaixados.
+Frame: 1692 Emoção detectada - neutral
+Frame: 1696 Pessoa com os braços abaixados.
 Frame: 1696 Pessoa olhando para frente
 Frame: 1696 Pessoa olhando para o lado Esquerdo
-Frame: 1696 neutral
-Frame: 1700 Pessoa com braços abaixados.
+Frame: 1696 Emoção detectada - neutral
+Frame: 1700 Pessoa com os braços abaixados.
 Frame: 1700 Pessoa olhando para frente
 Frame: 1700 Pessoa olhando para o lado Esquerdo
-Frame: 1700 neutral
-Frame: 1704 Pessoa com braços abaixados.
+Frame: 1700 Emoção detectada - neutral
+Frame: 1704 Pessoa com os braços abaixados.
 Frame: 1704 Pessoa olhando para frente
 Frame: 1704 Pessoa olhando para o lado Esquerdo
-Frame: 1704 neutral
-Frame: 1708 Pessoa com braços abaixados.
+Frame: 1704 Emoção detectada - neutral
+Frame: 1708 Pessoa com os braços abaixados.
 Frame: 1708 Pessoa olhando para frente
 Frame: 1708 Pessoa olhando para o lado Esquerdo
-Frame: 1708 neutral
-Frame: 1712 Pessoa olhando para o lado Esquerdo
-Frame: 1712 sad
+Frame: 1708 Emoção detectada - neutral
+Frame: 1712 Pessoa olhando para o lado Direto
+Frame: 1712 Movimento anômalo identificado.
+Frame: 1712 Emoção detectada - sad
 Frame: 1716 Pessoa olhando para o lado Direto
-Frame: 1716 sad
-Frame: 1720 Pessoa com braços abaixados.
-Frame: 1720 Pessoa olhando para o lado Direto
-Frame: 1720 sad
-Frame: 1724 Pessoa com braços abaixados.
-Frame: 1724 Pessoa olhando para o lado Direto
-Frame: 1724 neutral
-Frame: 1728 neutral
-Frame: 1732 neutral
-Frame: 1736 happy
-Frame: 1740 happy
-Frame: 1744 happy
-Frame: 1748 neutral
-Frame: 1752 neutral
-Frame: 1756 fear
-Frame: 1760 neutral
-Frame: 1764 neutral
-Frame: 1768 neutral
-Frame: 1772 neutral
-Frame: 1776 fear
-Frame: 1780 fear
-Frame: 1784 neutral
-Frame: 1788 fear
-Frame: 1792 fear
-Frame: 1796 happy
-Frame: 1800 happy
-Frame: 1804 happy
-Frame: 1808 sad
-Frame: 1812 angry
-Frame: 1816 angry
-Frame: 1820 angry
-Frame: 1824 angry
-Frame: 1828 angry
+Frame: 1716 Movimento anômalo identificado.
+Frame: 1716 Emoção detectada - neutral
+Frame: 1720 Pessoa com os braços abaixados.
+Frame: 1720 Pessoa olhando para o lado Esquerdo
+Frame: 1720 Movimento anômalo identificado.
+Frame: 1720 Emoção detectada - sad
+Frame: 1724 Pessoa com os braços abaixados.
+Frame: 1724 Pessoa olhando para o lado Esquerdo
+Frame: 1724 Emoção detectada - neutral
+Frame: 1728 Emoção detectada - neutral
+Frame: 1732 Emoção detectada - neutral
+Frame: 1736 Emoção detectada - happy
+Frame: 1740 Emoção detectada - happy
+Frame: 1744 Emoção detectada - happy
+Frame: 1748 Emoção detectada - neutral
+Frame: 1752 Emoção detectada - neutral
+Frame: 1756 Emoção detectada - fear
+Frame: 1760 Emoção detectada - neutral
+Frame: 1764 Emoção detectada - neutral
+Frame: 1768 Emoção detectada - neutral
+Frame: 1772 Emoção detectada - neutral
+Frame: 1776 Emoção detectada - fear
+Frame: 1780 Emoção detectada - fear
+Frame: 1784 Emoção detectada - neutral
+Frame: 1788 Emoção detectada - fear
+Frame: 1792 Emoção detectada - fear
+Frame: 1796 Emoção detectada - happy
+Frame: 1800 Emoção detectada - happy
+Frame: 1804 Emoção detectada - happy
+Frame: 1808 Emoção detectada - sad
+Frame: 1812 Emoção detectada - angry
+Frame: 1816 Emoção detectada - angry
+Frame: 1820 Emoção detectada - angry
+Frame: 1824 Emoção detectada - angry
+Frame: 1828 Emoção detectada - angry
 Frame: 1832 Pessoa olhando para frente
 Frame: 1832 Pessoa olhando para o lado Esquerdo
-Frame: 1832 angry
+Frame: 1832 Movimento anômalo identificado.
+Frame: 1832 Emoção detectada - angry
 Frame: 1836 Pessoa olhando para frente
 Frame: 1836 Pessoa olhando para o lado Esquerdo
-Frame: 1836 angry
+Frame: 1836 Movimento anômalo identificado.
+Frame: 1836 Emoção detectada - angry
 Frame: 1840 Pessoa olhando para o lado Esquerdo
-Frame: 1840 angry
-Frame: 1840 fear
+Frame: 1840 Emoção detectada - angry
+Frame: 1840 Emoção detectada - fear
 Frame: 1844 Pessoa olhando para o lado Esquerdo
-Frame: 1844 neutral
+Frame: 1844 Emoção detectada - angry
 Frame: 1848 Pessoa olhando para o lado Esquerdo
-Frame: 1848 sad
+Frame: 1848 Emoção detectada - angry
+Frame: 1848 Emoção detectada - sad
 Frame: 1852 Pessoa olhando para o lado Esquerdo
-Frame: 1852 angry
-Frame: 1852 sad
+Frame: 1852 Emoção detectada - angry
 Frame: 1856 Pessoa olhando para o lado Esquerdo
-Frame: 1856 neutral
-Frame: 1856 sad
+Frame: 1856 Emoção detectada - angry
+Frame: 1856 Emoção detectada - sad
 Frame: 1860 Pessoa olhando para o lado Esquerdo
-Frame: 1860 angry
+Frame: 1860 Emoção detectada - neutral
 Frame: 1864 Pessoa olhando para o lado Esquerdo
-Frame: 1864 neutral
+Frame: 1864 Emoção detectada - neutral
 Frame: 1868 Pessoa olhando para o lado Esquerdo
-Frame: 1868 angry
+Frame: 1868 Emoção detectada - angry
 Frame: 1872 Pessoa olhando para o lado Esquerdo
-Frame: 1872 angry
+Frame: 1872 Emoção detectada - angry
 Frame: 1876 Pessoa olhando para o lado Esquerdo
-Frame: 1876 neutral
-Frame: 1880 Pessoa olhando para frente
+Frame: 1876 Emoção detectada - neutral
 Frame: 1880 Pessoa olhando para o lado Esquerdo
-Frame: 1880 neutral
+Frame: 1880 Emoção detectada - fear
 Frame: 1884 Pessoa olhando para frente
 Frame: 1884 Pessoa olhando para o lado Esquerdo
-Frame: 1884 angry
+Frame: 1884 Emoção detectada - angry
 Frame: 1888 Pessoa olhando para frente
 Frame: 1888 Pessoa olhando para o lado Esquerdo
-Frame: 1888 angry
+Frame: 1888 Emoção detectada - neutral
 Frame: 1892 Pessoa olhando para frente
 Frame: 1892 Pessoa olhando para o lado Esquerdo
-Frame: 1892 sad
+Frame: 1892 Emoção detectada - sad
 Frame: 1896 Pessoa olhando para frente
 Frame: 1896 Pessoa olhando para o lado Esquerdo
-Frame: 1896 angry
+Frame: 1896 Emoção detectada - angry
 Frame: 1900 Pessoa olhando para frente
 Frame: 1900 Pessoa olhando para o lado Esquerdo
-Frame: 1900 neutral
+Frame: 1900 Movimento anômalo identificado.
+Frame: 1900 Emoção detectada - angry
 Frame: 1904 Pessoa olhando para frente
 Frame: 1904 Pessoa olhando para o lado Esquerdo
-Frame: 1904 angry
+Frame: 1904 Emoção detectada - angry
 Frame: 1908 Pessoa olhando para frente
 Frame: 1908 Pessoa olhando para o lado Esquerdo
-Frame: 1908 sad
+Frame: 1908 Emoção detectada - sad
 Frame: 1912 Pessoa olhando para frente
 Frame: 1912 Pessoa olhando para o lado Esquerdo
-Frame: 1912 angry
+Frame: 1912 Movimento anômalo identificado.
+Frame: 1912 Emoção detectada - sad
 Frame: 1916 Pessoa olhando para frente
 Frame: 1916 Pessoa olhando para o lado Esquerdo
-Frame: 1916 sad
+Frame: 1916 Emoção detectada - sad
 Frame: 1920 Pessoa olhando para frente
 Frame: 1920 Pessoa olhando para o lado Esquerdo
-Frame: 1920 sad
-Frame: 1924 sad
+Frame: 1920 Movimento anômalo identificado.
+Frame: 1920 Emoção detectada - sad
+Frame: 1924 Pessoa com os braços abaixados.
+Frame: 1924 Pessoa olhando para frente
+Frame: 1924 Pessoa olhando para o lado Direto
+Frame: 1924 Emoção detectada - sad
 Frame: 1928 Pessoa olhando para frente
 Frame: 1928 Pessoa olhando para o lado Esquerdo
-Frame: 1928 sad
-Frame: 1932 neutral
-Frame: 1936 neutral
+Frame: 1928 Movimento anômalo identificado.
+Frame: 1928 Emoção detectada - sad
+Frame: 1932 Emoção detectada - neutral
+Frame: 1936 Pessoa olhando para frente
+Frame: 1936 Pessoa olhando para o lado Direto
+Frame: 1936 Emoção detectada - neutral
 Frame: 1940 Pessoa olhando para frente
 Frame: 1940 Pessoa olhando para o lado Direto
-Frame: 1940 sad
+Frame: 1940 Emoção detectada - neutral
 Frame: 1944 Pessoa olhando para frente
 Frame: 1944 Pessoa olhando para o lado Direto
-Frame: 1944 neutral
-Frame: 1948 Pessoa com braços abaixados.
+Frame: 1944 Emoção detectada - neutral
+Frame: 1948 Pessoa com os braços abaixados.
 Frame: 1948 Pessoa olhando para frente
 Frame: 1948 Pessoa olhando para o lado Direto
-Frame: 1948 fear
-Frame: 1952 Pessoa com braços abaixados.
+Frame: 1948 Emoção detectada - fear
+Frame: 1952 Pessoa com os braços abaixados.
 Frame: 1952 Pessoa olhando para frente
 Frame: 1952 Pessoa olhando para o lado Direto
-Frame: 1952 neutral
-Frame: 1956 Pessoa com braços abaixados.
+Frame: 1952 Movimento anômalo identificado.
+Frame: 1952 Emoção detectada - neutral
+Frame: 1956 Pessoa com os braços abaixados.
 Frame: 1956 Pessoa olhando para frente
 Frame: 1956 Pessoa olhando para o lado Direto
-Frame: 1956 happy
-Frame: 1956 sad
-Frame: 1960 Pessoa com braços abaixados.
+Frame: 1956 Emoção detectada - neutral
+Frame: 1960 Pessoa com os braços abaixados.
 Frame: 1960 Pessoa olhando para frente
-Frame: 1960 neutral
-Frame: 1964 Pessoa com braços abaixados.
+Frame: 1960 Pessoa olhando para o lado Direto
+Frame: 1960 Emoção detectada - neutral
+Frame: 1964 Pessoa com os braços abaixados.
 Frame: 1964 Pessoa olhando para frente
 Frame: 1964 Pessoa olhando para o lado Direto
-Frame: 1964 neutral
-Frame: 1968 Pessoa com braços abaixados.
+Frame: 1964 Emoção detectada - neutral
+Frame: 1968 Pessoa com os braços abaixados.
 Frame: 1968 Pessoa olhando para frente
 Frame: 1968 Pessoa olhando para o lado Direto
-Frame: 1968 sad
+Frame: 1968 Emoção detectada - sad
+Frame: 1972 Pessoa com os braços abaixados.
 Frame: 1972 Pessoa olhando para frente
 Frame: 1972 Pessoa olhando para o lado Esquerdo
-Frame: 1972 sad
-Frame: 1976 Pessoa olhando para frente
-Frame: 1976 Pessoa olhando para o lado Esquerdo
-Frame: 1976 neutral
-Frame: 1980 Pessoa olhando para frente
-Frame: 1980 Pessoa olhando para o lado Direto
-Frame: 1980 sad
-Frame: 1984 neutral
-Frame: 1988 neutral
-Frame: 1992 neutral
-Frame: 1996 neutral
-Frame: 2000 neutral
-Frame: 2004 neutral
-Frame: 2008 neutral
-Frame: 2012 Pessoa com braços abaixados.
+Frame: 1972 Emoção detectada - sad
+Frame: 1976 Emoção detectada - neutral
+Frame: 1980 Emoção detectada - sad
+Frame: 1984 Emoção detectada - neutral
+Frame: 1988 Emoção detectada - neutral
+Frame: 1992 Emoção detectada - neutral
+Frame: 1996 Emoção detectada - neutral
+Frame: 2000 Emoção detectada - neutral
+Frame: 2004 Emoção detectada - neutral
+Frame: 2008 Emoção detectada - neutral
+Frame: 2012 Pessoa com os braços abaixados.
 Frame: 2012 Pessoa olhando para frente
 Frame: 2012 Pessoa olhando para o lado Esquerdo
-Frame: 2012 fear
-Frame: 2016 Pessoa com braços abaixados.
+Frame: 2012 Movimento anômalo identificado.
+Frame: 2012 Emoção detectada - fear
+Frame: 2016 Pessoa com os braços abaixados.
 Frame: 2016 Pessoa olhando para frente
 Frame: 2016 Pessoa olhando para o lado Esquerdo
-Frame: 2016 happy
-Frame: 2020 Pessoa com braços abaixados.
+Frame: 2016 Emoção detectada - happy
+Frame: 2020 Pessoa com os braços abaixados.
 Frame: 2020 Pessoa olhando para frente
 Frame: 2020 Pessoa olhando para o lado Esquerdo
-Frame: 2020 neutral
-Frame: 2024 Pessoa com braços abaixados.
+Frame: 2020 Emoção detectada - neutral
+Frame: 2024 Pessoa com os braços abaixados.
 Frame: 2024 Pessoa olhando para frente
 Frame: 2024 Pessoa olhando para o lado Esquerdo
-Frame: 2024 sad
-Frame: 2028 Pessoa com braços abaixados.
+Frame: 2024 Emoção detectada - sad
+Frame: 2028 Pessoa com os braços abaixados.
 Frame: 2028 Pessoa olhando para frente
 Frame: 2028 Pessoa olhando para o lado Direto
-Frame: 2028 happy
-Frame: 2032 Pessoa com braços abaixados.
+Frame: 2028 Emoção detectada - neutral
+Frame: 2032 Pessoa com os braços abaixados.
 Frame: 2032 Pessoa olhando para frente
 Frame: 2032 Pessoa olhando para o lado Direto
-Frame: 2032 happy
-Frame: 2036 Pessoa com braços abaixados.
+Frame: 2032 Emoção detectada - happy
+Frame: 2036 Pessoa com os braços abaixados.
 Frame: 2036 Pessoa olhando para frente
 Frame: 2036 Pessoa olhando para o lado Direto
-Frame: 2036 surprise
-Frame: 2040 Pessoa com braços abaixados.
+Frame: 2036 Emoção detectada - surprise
+Frame: 2040 Pessoa com os braços abaixados.
 Frame: 2040 Pessoa olhando para frente
 Frame: 2040 Pessoa olhando para o lado Direto
-Frame: 2040 sad
-Frame: 2044 Pessoa com braços abaixados.
+Frame: 2040 Emoção detectada - sad
+Frame: 2044 Pessoa com os braços abaixados.
 Frame: 2044 Pessoa olhando para frente
 Frame: 2044 Pessoa olhando para o lado Direto
-Frame: 2044 surprise
-Frame: 2048 Pessoa com braços abaixados.
+Frame: 2044 Emoção detectada - surprise
+Frame: 2048 Pessoa com os braços abaixados.
 Frame: 2048 Pessoa olhando para frente
 Frame: 2048 Pessoa olhando para o lado Direto
-Frame: 2048 happy
-Frame: 2052 Pessoa com braços abaixados.
+Frame: 2048 Emoção detectada - happy
+Frame: 2052 Pessoa com os braços abaixados.
 Frame: 2052 Pessoa olhando para frente
 Frame: 2052 Pessoa olhando para o lado Direto
-Frame: 2052 fear
-Frame: 2056 Pessoa com braços abaixados.
+Frame: 2052 Emoção detectada - fear
+Frame: 2056 Pessoa com os braços abaixados.
 Frame: 2056 Pessoa olhando para frente
 Frame: 2056 Pessoa olhando para o lado Direto
-Frame: 2056 surprise
-Frame: 2060 Pessoa com braços abaixados.
+Frame: 2056 Emoção detectada - surprise
+Frame: 2060 Pessoa com os braços abaixados.
 Frame: 2060 Pessoa olhando para frente
 Frame: 2060 Pessoa olhando para o lado Direto
-Frame: 2060 surprise
+Frame: 2060 Emoção detectada - surprise
 Frame: 2064 Pessoa olhando para frente
 Frame: 2064 Pessoa olhando para o lado Direto
-Frame: 2064 neutral
+Frame: 2064 Emoção detectada - neutral
 Frame: 2068 Pessoa olhando para frente
 Frame: 2068 Pessoa olhando para o lado Direto
-Frame: 2068 neutral
+Frame: 2068 Emoção detectada - neutral
 Frame: 2072 Pessoa olhando para frente
 Frame: 2072 Pessoa olhando para o lado Direto
-Frame: 2072 surprise
+Frame: 2072 Emoção detectada - surprise
 Frame: 2076 Pessoa olhando para frente
 Frame: 2076 Pessoa olhando para o lado Direto
-Frame: 2076 neutral
+Frame: 2076 Emoção detectada - neutral
 Frame: 2080 Pessoa olhando para o lado Direto
-Frame: 2080 surprise
+Frame: 2080 Emoção detectada - surprise
 Frame: 2084 Pessoa olhando para o lado Direto
-Frame: 2084 surprise
+Frame: 2084 Emoção detectada - surprise
 Frame: 2088 Pessoa olhando para o lado Direto
-Frame: 2088 surprise
+Frame: 2088 Emoção detectada - surprise
+Frame: 2092 Pessoa olhando para frente
 Frame: 2092 Pessoa olhando para o lado Direto
-Frame: 2092 neutral
+Frame: 2092 Emoção detectada - neutral
 Frame: 2096 Pessoa olhando para o lado Direto
-Frame: 2096 surprise
+Frame: 2096 Emoção detectada - surprise
 Frame: 2100 Pessoa olhando para o lado Direto
-Frame: 2100 sad
+Frame: 2100 Emoção detectada - sad
 Frame: 2104 Pessoa olhando para o lado Direto
-Frame: 2104 sad
+Frame: 2104 Emoção detectada - sad
 Frame: 2108 Pessoa olhando para o lado Direto
-Frame: 2108 sad
+Frame: 2108 Emoção detectada - sad
 Frame: 2112 Pessoa olhando para frente
 Frame: 2112 Pessoa olhando para o lado Direto
-Frame: 2112 neutral
+Frame: 2112 Emoção detectada - neutral
 Frame: 2116 Pessoa olhando para o lado Direto
-Frame: 2116 neutral
+Frame: 2116 Emoção detectada - neutral
 Frame: 2120 Pessoa olhando para o lado Direto
-Frame: 2120 neutral
+Frame: 2120 Emoção detectada - neutral
+Frame: 2124 Pessoa olhando para frente
 Frame: 2124 Pessoa olhando para o lado Direto
-Frame: 2124 neutral
+Frame: 2124 Emoção detectada - neutral
+Frame: 2128 Pessoa olhando para frente
 Frame: 2128 Pessoa olhando para o lado Direto
-Frame: 2128 sad
+Frame: 2128 Emoção detectada - sad
 Frame: 2132 Pessoa olhando para o lado Direto
-Frame: 2132 sad
+Frame: 2132 Emoção detectada - sad
 Frame: 2136 Pessoa olhando para o lado Direto
-Frame: 2136 surprise
+Frame: 2136 Emoção detectada - surprise
 Frame: 2140 Pessoa olhando para o lado Direto
-Frame: 2140 neutral
+Frame: 2140 Emoção detectada - neutral
 Frame: 2144 Pessoa olhando para o lado Direto
-Frame: 2144 neutral
+Frame: 2144 Emoção detectada - neutral
 Frame: 2148 Pessoa olhando para o lado Direto
-Frame: 2148 happy
+Frame: 2148 Emoção detectada - happy
 Frame: 2152 Pessoa olhando para o lado Direto
-Frame: 2152 happy
+Frame: 2152 Emoção detectada - happy
 Frame: 2156 Pessoa olhando para o lado Direto
-Frame: 2156 happy
+Frame: 2156 Emoção detectada - happy
 Frame: 2160 Pessoa olhando para o lado Direto
-Frame: 2160 happy
+Frame: 2160 Emoção detectada - happy
 Frame: 2164 Pessoa olhando para o lado Direto
-Frame: 2164 happy
+Frame: 2164 Emoção detectada - happy
 Frame: 2168 Pessoa olhando para o lado Direto
-Frame: 2168 happy
+Frame: 2168 Emoção detectada - happy
 Frame: 2172 Pessoa olhando para o lado Direto
-Frame: 2172 happy
+Frame: 2172 Emoção detectada - happy
 Frame: 2176 Pessoa olhando para frente
 Frame: 2176 Pessoa olhando para o lado Direto
-Frame: 2176 happy
+Frame: 2176 Emoção detectada - happy
 Frame: 2180 Pessoa olhando para frente
 Frame: 2180 Pessoa olhando para o lado Direto
-Frame: 2180 happy
+Frame: 2180 Emoção detectada - happy
 Frame: 2184 Pessoa olhando para frente
 Frame: 2184 Pessoa olhando para o lado Direto
-Frame: 2184 happy
+Frame: 2184 Emoção detectada - happy
 Frame: 2188 Pessoa olhando para frente
 Frame: 2188 Pessoa olhando para o lado Direto
-Frame: 2188 happy
-Frame: 2192 Braço levantado.
-Frame: 2192 Pessoa olhando para frente
-Frame: 2192 angry
-Frame: 2196 Braço levantado.
+Frame: 2188 Emoção detectada - happy
+Frame: 2192 Emoção detectada - angry
+Frame: 2196 Pessoa com os braços abaixados.
 Frame: 2196 Pessoa olhando para frente
-Frame: 2196 angry
-Frame: 2200 Braço levantado.
+Frame: 2196 Pessoa olhando para o lado Direto
+Frame: 2196 Movimento anômalo identificado.
+Frame: 2196 Emoção detectada - happy
+Frame: 2200 Pessoa com os braços abaixados.
 Frame: 2200 Pessoa olhando para frente
-Frame: 2200 neutral
-Frame: 2204 Braço levantado.
+Frame: 2200 Pessoa olhando para o lado Direto
+Frame: 2200 Emoção detectada - happy
+Frame: 2204 Pessoa com os braços abaixados.
 Frame: 2204 Pessoa olhando para frente
-Frame: 2204 angry
-Frame: 2208 Braço levantado.
+Frame: 2204 Pessoa olhando para o lado Direto
+Frame: 2204 Emoção detectada - neutral
+Frame: 2208 Pessoa com os braços abaixados.
 Frame: 2208 Pessoa olhando para frente
-Frame: 2208 angry
-Frame: 2212 neutral
-Frame: 2216 Pessoa com braços abaixados.
+Frame: 2208 Pessoa olhando para o lado Direto
+Frame: 2208 Emoção detectada - neutral
+Frame: 2212 Pessoa com os braços abaixados.
+Frame: 2212 Pessoa olhando para frente
+Frame: 2212 Pessoa olhando para o lado Direto
+Frame: 2212 Emoção detectada - neutral
+Frame: 2216 Pessoa com os braços abaixados.
 Frame: 2216 Pessoa olhando para frente
 Frame: 2216 Pessoa olhando para o lado Direto
-Frame: 2216 neutral
-Frame: 2220 Pessoa com braços abaixados.
+Frame: 2216 Emoção detectada - neutral
+Frame: 2220 Pessoa com os braços abaixados.
 Frame: 2220 Pessoa olhando para frente
 Frame: 2220 Pessoa olhando para o lado Direto
-Frame: 2220 happy
-Frame: 2224 Pessoa com braços abaixados.
+Frame: 2220 Emoção detectada - happy
+Frame: 2224 Pessoa com os braços abaixados.
 Frame: 2224 Pessoa olhando para frente
 Frame: 2224 Pessoa olhando para o lado Direto
-Frame: 2224 neutral
-Frame: 2228 Pessoa com braços abaixados.
+Frame: 2224 Emoção detectada - fear
+Frame: 2228 Pessoa com os braços abaixados.
 Frame: 2228 Pessoa olhando para frente
 Frame: 2228 Pessoa olhando para o lado Direto
-Frame: 2228 happy
-Frame: 2232 Pessoa com braços abaixados.
+Frame: 2228 Emoção detectada - angry
+Frame: 2232 Pessoa com os braços abaixados.
 Frame: 2232 Pessoa olhando para frente
 Frame: 2232 Pessoa olhando para o lado Direto
-Frame: 2232 angry
-Frame: 2236 Pessoa com braços abaixados.
+Frame: 2232 Emoção detectada - angry
+Frame: 2236 Pessoa com os braços abaixados.
 Frame: 2236 Pessoa olhando para frente
 Frame: 2236 Pessoa olhando para o lado Direto
-Frame: 2236 angry
-Frame: 2240 angry
-Frame: 2244 Pessoa com braços abaixados.
+Frame: 2236 Emoção detectada - angry
+Frame: 2240 Emoção detectada - angry
+Frame: 2244 Pessoa com os braços abaixados.
 Frame: 2244 Pessoa olhando para frente
 Frame: 2244 Pessoa olhando para o lado Direto
-Frame: 2244 happy
-Frame: 2248 Pessoa com braços abaixados.
+Frame: 2244 Emoção detectada - happy
+Frame: 2248 Pessoa com os braços abaixados.
 Frame: 2248 Pessoa olhando para frente
 Frame: 2248 Pessoa olhando para o lado Direto
-Frame: 2248 angry
-Frame: 2252 Pessoa com braços abaixados.
+Frame: 2248 Emoção detectada - angry
+Frame: 2252 Pessoa com os braços abaixados.
 Frame: 2252 Pessoa olhando para frente
 Frame: 2252 Pessoa olhando para o lado Direto
-Frame: 2252 angry
-Frame: 2256 Pessoa com braços abaixados.
+Frame: 2252 Emoção detectada - angry
+Frame: 2256 Pessoa com os braços abaixados.
 Frame: 2256 Pessoa olhando para frente
 Frame: 2256 Pessoa olhando para o lado Direto
-Frame: 2256 happy
-Frame: 2260 Pessoa com braços abaixados.
+Frame: 2256 Emoção detectada - happy
+Frame: 2260 Pessoa com os braços abaixados.
 Frame: 2260 Pessoa olhando para frente
 Frame: 2260 Pessoa olhando para o lado Direto
-Frame: 2260 angry
-Frame: 2264 Pessoa com braços abaixados.
+Frame: 2260 Emoção detectada - angry
+Frame: 2264 Pessoa com os braços abaixados.
 Frame: 2264 Pessoa olhando para frente
 Frame: 2264 Pessoa olhando para o lado Direto
-Frame: 2264 happy
-Frame: 2268 Pessoa com braços abaixados.
+Frame: 2264 Emoção detectada - happy
+Frame: 2268 Pessoa com os braços abaixados.
 Frame: 2268 Pessoa olhando para frente
 Frame: 2268 Pessoa olhando para o lado Direto
-Frame: 2268 neutral
-Frame: 2272 Pessoa com braços abaixados.
+Frame: 2268 Emoção detectada - neutral
+Frame: 2272 Pessoa com os braços abaixados.
 Frame: 2272 Pessoa olhando para frente
 Frame: 2272 Pessoa olhando para o lado Direto
-Frame: 2272 angry
-Frame: 2276 Pessoa com braços abaixados.
+Frame: 2272 Emoção detectada - angry
+Frame: 2276 Pessoa com os braços abaixados.
 Frame: 2276 Pessoa olhando para frente
 Frame: 2276 Pessoa olhando para o lado Direto
-Frame: 2276 fear
-Frame: 2280 Pessoa com braços abaixados.
+Frame: 2276 Emoção detectada - fear
+Frame: 2280 Pessoa com os braços abaixados.
 Frame: 2280 Pessoa olhando para frente
 Frame: 2280 Pessoa olhando para o lado Direto
-Frame: 2280 fear
-Frame: 2284 Pessoa com braços abaixados.
+Frame: 2280 Emoção detectada - fear
+Frame: 2284 Pessoa com os braços abaixados.
 Frame: 2284 Pessoa olhando para frente
 Frame: 2284 Pessoa olhando para o lado Direto
-Frame: 2284 sad
-Frame: 2288 Pessoa com braços abaixados.
+Frame: 2284 Emoção detectada - sad
+Frame: 2288 Pessoa com os braços abaixados.
 Frame: 2288 Pessoa olhando para frente
 Frame: 2288 Pessoa olhando para o lado Direto
-Frame: 2288 sad
-Frame: 2292 Pessoa com braços abaixados.
+Frame: 2288 Emoção detectada - fear
 Frame: 2292 Pessoa olhando para frente
 Frame: 2292 Pessoa olhando para o lado Direto
-Frame: 2292 sad
+Frame: 2292 Emoção detectada - sad
 Frame: 2296 Pessoa olhando para frente
 Frame: 2296 Pessoa olhando para o lado Direto
-Frame: 2296 sad
+Frame: 2296 Emoção detectada - sad
 Frame: 2300 Pessoa olhando para frente
 Frame: 2300 Pessoa olhando para o lado Direto
-Frame: 2300 sad
+Frame: 2300 Emoção detectada - sad
 Frame: 2304 Pessoa olhando para frente
 Frame: 2304 Pessoa olhando para o lado Direto
-Frame: 2304 sad
+Frame: 2304 Emoção detectada - sad
 Frame: 2308 Pessoa olhando para frente
 Frame: 2308 Pessoa olhando para o lado Direto
-Frame: 2308 sad
+Frame: 2308 Emoção detectada - sad
 Frame: 2312 Pessoa olhando para frente
 Frame: 2312 Pessoa olhando para o lado Direto
-Frame: 2312 sad
+Frame: 2312 Emoção detectada - sad
 Frame: 2316 Pessoa olhando para frente
 Frame: 2316 Pessoa olhando para o lado Direto
-Frame: 2316 fear
+Frame: 2316 Emoção detectada - fear
 Frame: 2320 Pessoa olhando para frente
 Frame: 2320 Pessoa olhando para o lado Direto
-Frame: 2320 fear
+Frame: 2320 Emoção detectada - fear
 Frame: 2324 Pessoa olhando para frente
 Frame: 2324 Pessoa olhando para o lado Direto
-Frame: 2324 sad
+Frame: 2324 Emoção detectada - sad
 Frame: 2328 Pessoa olhando para frente
 Frame: 2328 Pessoa olhando para o lado Direto
-Frame: 2328 sad
+Frame: 2328 Emoção detectada - sad
 Frame: 2332 Pessoa olhando para frente
 Frame: 2332 Pessoa olhando para o lado Direto
-Frame: 2332 sad
+Frame: 2332 Emoção detectada - sad
 Frame: 2336 Pessoa olhando para frente
 Frame: 2336 Pessoa olhando para o lado Direto
-Frame: 2336 sad
+Frame: 2336 Emoção detectada - sad
 Frame: 2340 Pessoa olhando para frente
 Frame: 2340 Pessoa olhando para o lado Direto
-Frame: 2340 sad
+Frame: 2340 Emoção detectada - sad
 Frame: 2344 Pessoa olhando para frente
 Frame: 2344 Pessoa olhando para o lado Direto
-Frame: 2344 neutral
+Frame: 2344 Emoção detectada - fear
 Frame: 2348 Pessoa olhando para frente
 Frame: 2348 Pessoa olhando para o lado Direto
-Frame: 2348 happy
+Frame: 2348 Emoção detectada - sad
 Frame: 2352 Pessoa olhando para frente
 Frame: 2352 Pessoa olhando para o lado Direto
-Frame: 2352 sad
+Frame: 2352 Emoção detectada - sad
 Frame: 2356 Pessoa olhando para frente
 Frame: 2356 Pessoa olhando para o lado Direto
-Frame: 2356 sad
+Frame: 2356 Emoção detectada - sad
 Frame: 2360 Pessoa olhando para frente
 Frame: 2360 Pessoa olhando para o lado Direto
-Frame: 2360 sad
+Frame: 2360 Emoção detectada - sad
 Frame: 2364 Pessoa olhando para frente
 Frame: 2364 Pessoa olhando para o lado Direto
-Frame: 2364 sad
+Frame: 2364 Emoção detectada - sad
 Frame: 2368 Pessoa olhando para frente
 Frame: 2368 Pessoa olhando para o lado Direto
-Frame: 2368 sad
+Frame: 2368 Emoção detectada - sad
+Frame: 2372 Pessoa com os braços abaixados.
 Frame: 2372 Pessoa olhando para frente
 Frame: 2372 Pessoa olhando para o lado Esquerdo
-Frame: 2372 fear
+Frame: 2372 Movimento anômalo identificado.
+Frame: 2372 Emoção detectada - fear
 Frame: 2376 Pessoa olhando para frente
 Frame: 2376 Pessoa olhando para o lado Esquerdo
-Frame: 2376 neutral
-Frame: 2380 Pessoa com braços abaixados.
+Frame: 2376 Movimento anômalo identificado.
+Frame: 2376 Emoção detectada - neutral
 Frame: 2380 Pessoa olhando para frente
 Frame: 2380 Pessoa olhando para o lado Esquerdo
-Frame: 2380 sad
-Frame: 2384 Pessoa com braços abaixados.
+Frame: 2380 Emoção detectada - neutral
+Frame: 2384 Pessoa com os braços abaixados.
 Frame: 2384 Pessoa olhando para frente
 Frame: 2384 Pessoa olhando para o lado Esquerdo
-Frame: 2384 angry
-Frame: 2388 Pessoa com braços abaixados.
+Frame: 2384 Emoção detectada - angry
+Frame: 2388 Pessoa com os braços abaixados.
 Frame: 2388 Pessoa olhando para frente
 Frame: 2388 Pessoa olhando para o lado Esquerdo
-Frame: 2388 neutral
-Frame: 2392 Pessoa com braços abaixados.
+Frame: 2388 Emoção detectada - neutral
+Frame: 2392 Pessoa com os braços abaixados.
 Frame: 2392 Pessoa olhando para frente
 Frame: 2392 Pessoa olhando para o lado Esquerdo
-Frame: 2392 neutral
-Frame: 2396 Pessoa com braços abaixados.
+Frame: 2392 Emoção detectada - angry
+Frame: 2396 Pessoa com os braços abaixados.
 Frame: 2396 Pessoa olhando para frente
 Frame: 2396 Pessoa olhando para o lado Esquerdo
-Frame: 2396 fear
+Frame: 2396 Emoção detectada - neutral
 Frame: 2400 Pessoa olhando para o lado Direto
-Frame: 2400 sad
+Frame: 2400 Movimento anômalo identificado.
+Frame: 2400 Emoção detectada - sad
 Frame: 2404 Pessoa olhando para o lado Direto
-Frame: 2404 sad
+Frame: 2404 Movimento anômalo identificado.
+Frame: 2404 Emoção detectada - sad
 Frame: 2408 Pessoa olhando para o lado Direto
-Frame: 2408 sad
-Frame: 2408 angry
+Frame: 2408 Emoção detectada - sad
 Frame: 2412 Pessoa olhando para o lado Direto
-Frame: 2412 sad
+Frame: 2412 Movimento anômalo identificado.
+Frame: 2412 Emoção detectada - sad
 Frame: 2416 Pessoa olhando para o lado Direto
-Frame: 2416 neutral
-Frame: 2416 sad
+Frame: 2416 Emoção detectada - sad
 Frame: 2420 Pessoa olhando para o lado Direto
-Frame: 2420 neutral
-Frame: 2420 sad
-Frame: 2420 happy
+Frame: 2420 Emoção detectada - sad
+Frame: 2420 Emoção detectada - happy
 Frame: 2424 Pessoa olhando para o lado Direto
-Frame: 2424 sad
+Frame: 2424 Emoção detectada - sad
 Frame: 2428 Pessoa olhando para o lado Direto
-Frame: 2428 neutral
+Frame: 2428 Emoção detectada - neutral
 Frame: 2432 Pessoa olhando para o lado Direto
-Frame: 2432 sad
+Frame: 2432 Movimento anômalo identificado.
+Frame: 2432 Emoção detectada - sad
 Frame: 2436 Pessoa olhando para o lado Direto
-Frame: 2436 angry
-Frame: 2436 neutral
+Frame: 2436 Emoção detectada - neutral
 Frame: 2440 Pessoa olhando para o lado Direto
-Frame: 2440 sad
+Frame: 2440 Emoção detectada - sad
 Frame: 2444 Pessoa olhando para o lado Direto
-Frame: 2444 neutral
+Frame: 2444 Emoção detectada - neutral
 Frame: 2448 Pessoa olhando para o lado Direto
-Frame: 2448 sad
+Frame: 2448 Emoção detectada - sad
 Frame: 2452 Pessoa olhando para o lado Direto
-Frame: 2452 sad
+Frame: 2452 Emoção detectada - sad
 Frame: 2456 Pessoa olhando para o lado Direto
-Frame: 2456 sad
+Frame: 2456 Emoção detectada - sad
 Frame: 2460 Pessoa olhando para o lado Direto
-Frame: 2460 sad
-Frame: 2460 neutral
+Frame: 2460 Emoção detectada - sad
+Frame: 2464 Pessoa olhando para frente
 Frame: 2464 Pessoa olhando para o lado Direto
-Frame: 2464 sad
+Frame: 2464 Emoção detectada - sad
+Frame: 2468 Pessoa com os braços abaixados.
 Frame: 2468 Pessoa olhando para frente
 Frame: 2468 Pessoa olhando para o lado Direto
-Frame: 2468 sad
+Frame: 2468 Emoção detectada - sad
 Frame: 2472 Pessoa olhando para frente
 Frame: 2472 Pessoa olhando para o lado Direto
-Frame: 2472 sad
+Frame: 2472 Emoção detectada - sad
 Frame: 2476 Pessoa olhando para o lado Direto
-Frame: 2476 sad
+Frame: 2476 Emoção detectada - sad
 Frame: 2480 Pessoa olhando para o lado Direto
-Frame: 2480 fear
+Frame: 2480 Emoção detectada - fear
 Frame: 2484 Pessoa olhando para o lado Direto
-Frame: 2484 sad
+Frame: 2484 Emoção detectada - sad
 Frame: 2488 Pessoa olhando para o lado Direto
-Frame: 2488 sad
+Frame: 2488 Emoção detectada - sad
+Frame: 2488 Emoção detectada - angry
 Frame: 2492 Pessoa olhando para o lado Direto
-Frame: 2492 sad
+Frame: 2492 Emoção detectada - sad
+Frame: 2492 Emoção detectada - angry
 Frame: 2496 Pessoa olhando para o lado Direto
-Frame: 2496 sad
+Frame: 2496 Movimento anômalo identificado.
+Frame: 2496 Emoção detectada - sad
 Frame: 2500 Pessoa olhando para o lado Direto
-Frame: 2500 sad
+Frame: 2500 Emoção detectada - sad
 Frame: 2504 Pessoa olhando para o lado Direto
-Frame: 2504 happy
+Frame: 2504 Emoção detectada - happy
 Frame: 2508 Pessoa olhando para o lado Direto
-Frame: 2508 sad
+Frame: 2508 Emoção detectada - sad
 Frame: 2512 Pessoa olhando para o lado Direto
-Frame: 2512 sad
+Frame: 2512 Emoção detectada - sad
 Frame: 2516 Pessoa olhando para o lado Direto
-Frame: 2516 sad
+Frame: 2516 Emoção detectada - sad
 Frame: 2520 Pessoa olhando para o lado Direto
-Frame: 2520 sad
-Frame: 2520 angry
+Frame: 2520 Emoção detectada - sad
+Frame: 2520 Emoção detectada - neutral
 Frame: 2524 Pessoa olhando para o lado Direto
-Frame: 2524 neutral
+Frame: 2524 Emoção detectada - neutral
+Frame: 2524 Emoção detectada - angry
 Frame: 2528 Pessoa olhando para o lado Direto
-Frame: 2528 neutral
+Frame: 2528 Emoção detectada - neutral
+Frame: 2528 Emoção detectada - neutral
+Frame: 2532 Pessoa olhando para frente
 Frame: 2532 Pessoa olhando para o lado Direto
-Frame: 2532 neutral
-Frame: 2536 Pessoa olhando para frente
+Frame: 2532 Emoção detectada - neutral
 Frame: 2536 Pessoa olhando para o lado Direto
-Frame: 2536 sad
-Frame: 2536 neutral
+Frame: 2536 Emoção detectada - sad
 Frame: 2540 Pessoa olhando para frente
 Frame: 2540 Pessoa olhando para o lado Direto
-Frame: 2540 sad
+Frame: 2540 Emoção detectada - sad
 Frame: 2544 Pessoa olhando para frente
 Frame: 2544 Pessoa olhando para o lado Direto
-Frame: 2544 sad
-Frame: 2548 Pessoa olhando para frente
+Frame: 2544 Emoção detectada - sad
+Frame: 2544 Emoção detectada - neutral
 Frame: 2548 Pessoa olhando para o lado Direto
-Frame: 2548 sad
-Frame: 2548 neutral
+Frame: 2548 Emoção detectada - sad
+Frame: 2548 Emoção detectada - angry
 Frame: 2552 Pessoa olhando para o lado Direto
-Frame: 2552 neutral
+Frame: 2552 Emoção detectada - neutral
 Frame: 2556 Pessoa olhando para o lado Direto
-Frame: 2556 sad
+Frame: 2556 Emoção detectada - sad
+Frame: 2556 Emoção detectada - angry
 Frame: 2560 Pessoa olhando para o lado Direto
-Frame: 2560 fear
+Frame: 2560 Emoção detectada - fear
 Frame: 2564 Pessoa olhando para o lado Direto
-Frame: 2564 fear
+Frame: 2564 Emoção detectada - fear
+Frame: 2564 Emoção detectada - angry
 Frame: 2568 Pessoa olhando para o lado Direto
-Frame: 2568 sad
+Frame: 2568 Emoção detectada - sad
 Frame: 2572 Pessoa olhando para o lado Direto
-Frame: 2572 sad
-Frame: 2572 angry
+Frame: 2572 Emoção detectada - sad
+Frame: 2572 Emoção detectada - angry
 Frame: 2576 Pessoa olhando para o lado Direto
-Frame: 2576 fear
-Frame: 2576 angry
+Frame: 2576 Emoção detectada - fear
 Frame: 2580 Pessoa olhando para frente
 Frame: 2580 Pessoa olhando para o lado Direto
-Frame: 2580 angry
+Frame: 2580 Emoção detectada - angry
 Frame: 2584 Pessoa olhando para frente
 Frame: 2584 Pessoa olhando para o lado Direto
-Frame: 2584 sad
+Frame: 2584 Emoção detectada - angry
 Frame: 2588 Pessoa olhando para frente
 Frame: 2588 Pessoa olhando para o lado Direto
-Frame: 2588 neutral
+Frame: 2588 Emoção detectada - angry
 Frame: 2592 Pessoa olhando para frente
 Frame: 2592 Pessoa olhando para o lado Direto
-Frame: 2592 angry
+Frame: 2592 Emoção detectada - angry
 Frame: 2596 Pessoa olhando para frente
 Frame: 2596 Pessoa olhando para o lado Direto
-Frame: 2596 angry
+Frame: 2596 Emoção detectada - sad
 Frame: 2600 Pessoa olhando para frente
 Frame: 2600 Pessoa olhando para o lado Direto
-Frame: 2600 neutral
-Frame: 2600 fear
+Frame: 2600 Emoção detectada - angry
+Frame: 2600 Emoção detectada - fear
 Frame: 2604 Pessoa olhando para frente
 Frame: 2604 Pessoa olhando para o lado Direto
-Frame: 2604 sad
+Frame: 2604 Emoção detectada - sad
+Frame: 2604 Emoção detectada - angry
 Frame: 2608 Pessoa olhando para frente
 Frame: 2608 Pessoa olhando para o lado Direto
-Frame: 2608 fear
-Frame: 2608 neutral
+Frame: 2608 Emoção detectada - fear
+Frame: 2608 Emoção detectada - neutral
 Frame: 2612 Pessoa olhando para frente
 Frame: 2612 Pessoa olhando para o lado Direto
-Frame: 2612 fear
-Frame: 2612 angry
+Frame: 2612 Emoção detectada - fear
+Frame: 2612 Emoção detectada - neutral
 Frame: 2616 Pessoa olhando para frente
 Frame: 2616 Pessoa olhando para o lado Direto
-Frame: 2616 fear
+Frame: 2616 Emoção detectada - fear
 Frame: 2620 Pessoa olhando para frente
 Frame: 2620 Pessoa olhando para o lado Direto
-Frame: 2620 fear
-Frame: 2620 angry
+Frame: 2620 Emoção detectada - fear
+Frame: 2620 Emoção detectada - angry
 Frame: 2624 Pessoa olhando para frente
 Frame: 2624 Pessoa olhando para o lado Direto
-Frame: 2624 sad
-Frame: 2624 fear
+Frame: 2624 Emoção detectada - fear
+Frame: 2624 Emoção detectada - sad
+Frame: 2624 Emoção detectada - fear
 Frame: 2628 Pessoa olhando para frente
 Frame: 2628 Pessoa olhando para o lado Direto
-Frame: 2628 angry
-Frame: 2628 happy
-Frame: 2632 Pessoa com braços abaixados.
+Frame: 2628 Emoção detectada - happy
+Frame: 2628 Emoção detectada - angry
+Frame: 2632 Pessoa com os braços abaixados.
 Frame: 2632 Pessoa olhando para frente
 Frame: 2632 Pessoa olhando para o lado Direto
-Frame: 2632 angry
-Frame: 2636 Pessoa com braços abaixados.
+Frame: 2632 Emoção detectada - sad
+Frame: 2636 Pessoa com os braços abaixados.
 Frame: 2636 Pessoa olhando para frente
 Frame: 2636 Pessoa olhando para o lado Direto
-Frame: 2636 sad
-Frame: 2640 Pessoa com braços abaixados.
+Frame: 2636 Emoção detectada - angry
+Frame: 2640 Pessoa com os braços abaixados.
 Frame: 2640 Pessoa olhando para frente
 Frame: 2640 Pessoa olhando para o lado Direto
-Frame: 2640 angry
-Frame: 2644 Pessoa com braços abaixados.
+Frame: 2640 Emoção detectada - fear
+Frame: 2644 Pessoa com os braços abaixados.
 Frame: 2644 Pessoa olhando para frente
 Frame: 2644 Pessoa olhando para o lado Direto
-Frame: 2644 sad
-Frame: 2648 Pessoa com braços abaixados.
+Frame: 2644 Emoção detectada - sad
+Frame: 2648 Pessoa com os braços abaixados.
 Frame: 2648 Pessoa olhando para frente
 Frame: 2648 Pessoa olhando para o lado Direto
-Frame: 2648 angry
-Frame: 2652 Pessoa com braços abaixados.
+Frame: 2648 Emoção detectada - angry
+Frame: 2652 Pessoa com os braços abaixados.
 Frame: 2652 Pessoa olhando para frente
 Frame: 2652 Pessoa olhando para o lado Direto
-Frame: 2652 fear
-Frame: 2656 Pessoa com braços abaixados.
+Frame: 2652 Emoção detectada - fear
+Frame: 2656 Pessoa com os braços abaixados.
 Frame: 2656 Pessoa olhando para frente
 Frame: 2656 Pessoa olhando para o lado Direto
-Frame: 2656 sad
-Frame: 2660 Pessoa com braços abaixados.
+Frame: 2656 Emoção detectada - sad
+Frame: 2660 Pessoa com os braços abaixados.
 Frame: 2660 Pessoa olhando para frente
 Frame: 2660 Pessoa olhando para o lado Direto
-Frame: 2660 neutral
-Frame: 2664 Pessoa com braços abaixados.
+Frame: 2660 Emoção detectada - sad
+Frame: 2664 Pessoa com os braços abaixados.
 Frame: 2664 Pessoa olhando para frente
 Frame: 2664 Pessoa olhando para o lado Direto
-Frame: 2664 sad
-Frame: 2668 Pessoa com braços abaixados.
+Frame: 2664 Emoção detectada - sad
+Frame: 2668 Pessoa com os braços abaixados.
 Frame: 2668 Pessoa olhando para frente
 Frame: 2668 Pessoa olhando para o lado Direto
-Frame: 2668 sad
-Frame: 2672 Pessoa com braços abaixados.
+Frame: 2668 Emoção detectada - sad
+Frame: 2672 Pessoa com os braços abaixados.
 Frame: 2672 Pessoa olhando para frente
 Frame: 2672 Pessoa olhando para o lado Direto
-Frame: 2672 sad
-Frame: 2676 Pessoa com braços abaixados.
+Frame: 2672 Emoção detectada - fear
+Frame: 2676 Pessoa com os braços abaixados.
 Frame: 2676 Pessoa olhando para frente
 Frame: 2676 Pessoa olhando para o lado Direto
-Frame: 2676 sad
-Frame: 2680 Pessoa com braços abaixados.
+Frame: 2676 Emoção detectada - angry
+Frame: 2680 Pessoa com os braços abaixados.
 Frame: 2680 Pessoa olhando para frente
 Frame: 2680 Pessoa olhando para o lado Direto
-Frame: 2680 angry
-Frame: 2684 Pessoa com braços abaixados.
+Frame: 2680 Emoção detectada - angry
+Frame: 2684 Pessoa com os braços abaixados.
 Frame: 2684 Pessoa olhando para frente
 Frame: 2684 Pessoa olhando para o lado Direto
-Frame: 2684 sad
+Frame: 2684 Emoção detectada - angry
 Frame: 2688 Pessoa olhando para frente
 Frame: 2688 Pessoa olhando para o lado Direto
-Frame: 2688 angry
+Frame: 2688 Emoção detectada - sad
 Frame: 2692 Pessoa olhando para frente
 Frame: 2692 Pessoa olhando para o lado Direto
-Frame: 2692 angry
-Frame: 2692 neutral
+Frame: 2692 Emoção detectada - angry
+Frame: 2692 Emoção detectada - neutral
 Frame: 2696 Pessoa olhando para frente
 Frame: 2696 Pessoa olhando para o lado Direto
-Frame: 2696 sad
+Frame: 2696 Emoção detectada - angry
 Frame: 2700 Pessoa olhando para frente
 Frame: 2700 Pessoa olhando para o lado Direto
-Frame: 2700 sad
-Frame: 2704 Pessoa com braços abaixados.
+Frame: 2700 Emoção detectada - angry
+Frame: 2704 Pessoa com os braços abaixados.
 Frame: 2704 Pessoa olhando para frente
 Frame: 2704 Pessoa olhando para o lado Direto
-Frame: 2704 neutral
-Frame: 2708 Pessoa com braços abaixados.
+Frame: 2704 Emoção detectada - angry
+Frame: 2708 Pessoa com os braços abaixados.
 Frame: 2708 Pessoa olhando para frente
 Frame: 2708 Pessoa olhando para o lado Direto
-Frame: 2708 neutral
-Frame: 2708 neutral
-Frame: 2712 Pessoa com braços abaixados.
+Frame: 2708 Emoção detectada - neutral
+Frame: 2712 Pessoa com os braços abaixados.
 Frame: 2712 Pessoa olhando para frente
 Frame: 2712 Pessoa olhando para o lado Direto
-Frame: 2712 sad
-Frame: 2716 Pessoa com braços abaixados.
+Frame: 2712 Emoção detectada - angry
+Frame: 2716 Pessoa com os braços abaixados.
 Frame: 2716 Pessoa olhando para frente
 Frame: 2716 Pessoa olhando para o lado Direto
-Frame: 2716 sad
-Frame: 2720 Pessoa com braços abaixados.
+Frame: 2716 Emoção detectada - angry
+Frame: 2720 Pessoa com os braços abaixados.
 Frame: 2720 Pessoa olhando para frente
 Frame: 2720 Pessoa olhando para o lado Direto
-Frame: 2720 sad
-Frame: 2724 Pessoa com braços abaixados.
+Frame: 2720 Emoção detectada - sad
+Frame: 2724 Pessoa com os braços abaixados.
 Frame: 2724 Pessoa olhando para frente
 Frame: 2724 Pessoa olhando para o lado Direto
-Frame: 2724 neutral
-Frame: 2728 Pessoa com braços abaixados.
+Frame: 2724 Emoção detectada - angry
+Frame: 2728 Pessoa com os braços abaixados.
 Frame: 2728 Pessoa olhando para frente
 Frame: 2728 Pessoa olhando para o lado Direto
-Frame: 2728 fear
-Frame: 2732 Pessoa com braços abaixados.
+Frame: 2728 Emoção detectada - fear
+Frame: 2728 Emoção detectada - angry
+Frame: 2732 Pessoa com os braços abaixados.
 Frame: 2732 Pessoa olhando para frente
 Frame: 2732 Pessoa olhando para o lado Direto
-Frame: 2732 fear
-Frame: 2736 Pessoa com braços abaixados.
+Frame: 2732 Emoção detectada - fear
+Frame: 2736 Pessoa com os braços abaixados.
 Frame: 2736 Pessoa olhando para frente
 Frame: 2736 Pessoa olhando para o lado Direto
-Frame: 2736 sad
-Frame: 2740 Pessoa com braços abaixados.
+Frame: 2736 Emoção detectada - sad
+Frame: 2740 Pessoa com os braços abaixados.
 Frame: 2740 Pessoa olhando para frente
 Frame: 2740 Pessoa olhando para o lado Direto
-Frame: 2740 fear
-Frame: 2744 Pessoa com braços abaixados.
+Frame: 2740 Emoção detectada - fear
+Frame: 2740 Emoção detectada - angry
+Frame: 2744 Pessoa com os braços abaixados.
 Frame: 2744 Pessoa olhando para frente
 Frame: 2744 Pessoa olhando para o lado Direto
-Frame: 2744 fear
-Frame: 2748 Pessoa com braços abaixados.
+Frame: 2744 Emoção detectada - fear
+Frame: 2744 Emoção detectada - surprise
+Frame: 2748 Pessoa com os braços abaixados.
 Frame: 2748 Pessoa olhando para frente
 Frame: 2748 Pessoa olhando para o lado Direto
-Frame: 2748 fear
-Frame: 2752 Pessoa com braços abaixados.
+Frame: 2748 Emoção detectada - angry
+Frame: 2748 Emoção detectada - fear
+Frame: 2752 Pessoa com os braços abaixados.
 Frame: 2752 Pessoa olhando para frente
 Frame: 2752 Pessoa olhando para o lado Direto
-Frame: 2752 fear
-Frame: 2756 Pessoa com braços abaixados.
+Frame: 2752 Emoção detectada - fear
+Frame: 2752 Emoção detectada - angry
+Frame: 2756 Pessoa com os braços abaixados.
 Frame: 2756 Pessoa olhando para frente
 Frame: 2756 Pessoa olhando para o lado Direto
-Frame: 2756 fear
-Frame: 2760 happy
-Frame: 2764 happy
-Frame: 2768 happy
-Frame: 2772 happy
-Frame: 2776 happy
-Frame: 2780 happy
-Frame: 2784 happy
-Frame: 2788 happy
-Frame: 2792 happy
-Frame: 2796 happy
-Frame: 2800 happy
-Frame: 2804 happy
-Frame: 2808 sad
-Frame: 2812 fear
-Frame: 2816 happy
-Frame: 2820 happy
-Frame: 2824 happy
-Frame: 2828 happy
-Frame: 2832 happy
-Frame: 2836 happy
-Frame: 2840 happy
-Frame: 2844 happy
-Frame: 2848 happy
-Frame: 2852 happy
-Frame: 2856 happy
-Frame: 2860 happy
-Frame: 2864 happy
-Frame: 2868 happy
-Frame: 2872 happy
-Frame: 2876 happy
-Frame: 2880 happy
-Frame: 2884 happy
-Frame: 2888 happy
-Frame: 2892 happy
-Frame: 2896 happy
-Frame: 2900 sad
-Frame: 2904 sad
-Frame: 2908 sad
-Frame: 2912 happy
-Frame: 2916 happy
-Frame: 2920 happy
-Frame: 2924 happy
-Frame: 2928 happy
-Frame: 2932 sad
-Frame: 2936 sad
-Frame: 2940 sad
-Frame: 2944 fear
-Frame: 2948 fear
-Frame: 2952 fear
-Frame: 2956 sad
-Frame: 2960 sad
-Frame: 2964 neutral
-Frame: 2968 neutral
-Frame: 2972 neutral
-Frame: 2976 neutral
-Frame: 2980 neutral
-Frame: 2984 neutral
-Frame: 2988 neutral
-Frame: 2992 happy
-Frame: 2996 happy
-Frame: 3000 happy
-Frame: 3004 happy
-Frame: 3008 happy
-Frame: 3012 happy
-Frame: 3016 happy
-Frame: 3020 happy
-Frame: 3024 happy
-Frame: 3028 neutral
-Frame: 3032 happy
-Frame: 3036 happy
-Frame: 3040 happy
-Frame: 3044 Braço levantado.
+Frame: 2756 Emoção detectada - fear
+Frame: 2760 Emoção detectada - happy
+Frame: 2764 Emoção detectada - happy
+Frame: 2768 Emoção detectada - happy
+Frame: 2772 Emoção detectada - happy
+Frame: 2776 Emoção detectada - happy
+Frame: 2780 Emoção detectada - happy
+Frame: 2784 Emoção detectada - happy
+Frame: 2788 Emoção detectada - happy
+Frame: 2792 Emoção detectada - happy
+Frame: 2796 Emoção detectada - happy
+Frame: 2800 Emoção detectada - happy
+Frame: 2804 Emoção detectada - happy
+Frame: 2808 Emoção detectada - happy
+Frame: 2812 Emoção detectada - fear
+Frame: 2816 Emoção detectada - happy
+Frame: 2820 Emoção detectada - happy
+Frame: 2824 Emoção detectada - happy
+Frame: 2828 Emoção detectada - happy
+Frame: 2832 Emoção detectada - happy
+Frame: 2836 Emoção detectada - happy
+Frame: 2840 Emoção detectada - happy
+Frame: 2844 Emoção detectada - happy
+Frame: 2848 Emoção detectada - happy
+Frame: 2852 Emoção detectada - happy
+Frame: 2856 Emoção detectada - happy
+Frame: 2860 Emoção detectada - happy
+Frame: 2864 Emoção detectada - happy
+Frame: 2868 Emoção detectada - happy
+Frame: 2872 Emoção detectada - happy
+Frame: 2876 Emoção detectada - happy
+Frame: 2880 Emoção detectada - happy
+Frame: 2884 Emoção detectada - happy
+Frame: 2888 Emoção detectada - happy
+Frame: 2892 Emoção detectada - happy
+Frame: 2896 Emoção detectada - happy
+Frame: 2900 Emoção detectada - sad
+Frame: 2904 Emoção detectada - sad
+Frame: 2908 Emoção detectada - sad
+Frame: 2912 Emoção detectada - happy
+Frame: 2916 Emoção detectada - happy
+Frame: 2920 Emoção detectada - happy
+Frame: 2924 Emoção detectada - happy
+Frame: 2928 Emoção detectada - happy
+Frame: 2932 Emoção detectada - sad
+Frame: 2936 Emoção detectada - sad
+Frame: 2940 Emoção detectada - sad
+Frame: 2944 Emoção detectada - fear
+Frame: 2948 Emoção detectada - fear
+Frame: 2952 Emoção detectada - fear
+Frame: 2956 Emoção detectada - sad
+Frame: 2960 Emoção detectada - sad
+Frame: 2964 Emoção detectada - neutral
+Frame: 2968 Emoção detectada - neutral
+Frame: 2972 Emoção detectada - neutral
+Frame: 2976 Emoção detectada - neutral
+Frame: 2980 Emoção detectada - neutral
+Frame: 2984 Emoção detectada - neutral
+Frame: 2988 Emoção detectada - neutral
+Frame: 2992 Emoção detectada - happy
+Frame: 2996 Emoção detectada - happy
+Frame: 3000 Emoção detectada - happy
+Frame: 3004 Emoção detectada - happy
+Frame: 3008 Emoção detectada - happy
+Frame: 3012 Emoção detectada - happy
+Frame: 3016 Emoção detectada - happy
+Frame: 3020 Emoção detectada - happy
+Frame: 3024 Emoção detectada - happy
+Frame: 3028 Emoção detectada - neutral
+Frame: 3032 Emoção detectada - happy
+Frame: 3036 Emoção detectada - happy
+Frame: 3040 Emoção detectada - happy
+Frame: 3044 Pessoa com os braços levantado.
 Frame: 3044 Pessoa olhando para frente
 Frame: 3044 Pessoa olhando para o lado Esquerdo
-Frame: 3044 happy
-Frame: 3048 Braço levantado.
+Frame: 3044 Movimento anômalo identificado.
+Frame: 3044 Emoção detectada - happy
+Frame: 3048 Pessoa com os braços levantado.
 Frame: 3048 Pessoa olhando para frente
 Frame: 3048 Pessoa olhando para o lado Esquerdo
-Frame: 3048 happy
-Frame: 3052 Braço levantado.
+Frame: 3048 Emoção detectada - happy
+Frame: 3052 Pessoa com os braços levantado.
 Frame: 3052 Pessoa olhando para frente
 Frame: 3052 Pessoa olhando para o lado Esquerdo
-Frame: 3052 happy
-Frame: 3056 Braço levantado.
+Frame: 3052 Emoção detectada - happy
+Frame: 3056 Pessoa com os braços levantado.
 Frame: 3056 Pessoa olhando para o lado Esquerdo
-Frame: 3056 happy
-Frame: 3060 Braço levantado.
+Frame: 3056 Emoção detectada - happy
+Frame: 3060 Pessoa com os braços levantado.
 Frame: 3060 Pessoa olhando para o lado Esquerdo
-Frame: 3060 happy
-Frame: 3064 Braço levantado.
+Frame: 3060 Emoção detectada - happy
+Frame: 3064 Pessoa com os braços levantado.
 Frame: 3064 Pessoa olhando para o lado Esquerdo
-Frame: 3064 sad
-Frame: 3068 Braço levantado.
+Frame: 3064 Emoção detectada - happy
+Frame: 3068 Pessoa com os braços levantado.
+Frame: 3068 Pessoa olhando para frente
 Frame: 3068 Pessoa olhando para o lado Esquerdo
-Frame: 3068 fear
-Frame: 3072 sad
-Frame: 3076 happy
-Frame: 3080 happy
-Frame: 3084 happy
-Frame: 3088 sad
-Frame: 3092 sad
-Frame: 3096 sad
-Frame: 3100 sad
-Frame: 3104 sad
-Frame: 3108 sad
-Frame: 3112 sad
-Frame: 3116 sad
-Frame: 3120 neutral
-Frame: 3120 fear
-Frame: 3124 neutral
-Frame: 3124 fear
-Frame: 3128 neutral
-Frame: 3128 neutral
-Frame: 3132 neutral
-Frame: 3132 fear
-Frame: 3136 neutral
-Frame: 3136 neutral
-Frame: 3140 neutral
-Frame: 3140 neutral
-Frame: 3140 sad
-Frame: 3144 neutral
-Frame: 3144 neutral
-Frame: 3144 sad
-Frame: 3148 neutral
-Frame: 3148 neutral
-Frame: 3148 sad
-Frame: 3148 fear
-Frame: 3152 neutral
-Frame: 3152 neutral
-Frame: 3152 sad
-Frame: 3152 sad
-Frame: 3156 fear
-Frame: 3156 sad
-Frame: 3156 fear
-Frame: 3160 neutral
-Frame: 3160 sad
-Frame: 3160 neutral
-Frame: 3164 neutral
-Frame: 3164 sad
-Frame: 3164 fear
-Frame: 3168 happy
-Frame: 3168 neutral
-Frame: 3172 happy
-Frame: 3172 neutral
-Frame: 3172 surprise
+Frame: 3068 Emoção detectada - fear
+Frame: 3072 Emoção detectada - sad
+Frame: 3076 Emoção detectada - happy
+Frame: 3080 Emoção detectada - happy
+Frame: 3084 Emoção detectada - happy
+Frame: 3088 Pessoa com os braços levantado.
+Frame: 3088 Pessoa com os braços abaixados.
+Frame: 3088 Pessoa olhando para frente
+Frame: 3088 Pessoa olhando para o lado Esquerdo
+Frame: 3088 Movimento anômalo identificado.
+Frame: 3088 Emoção detectada - happy
+Frame: 3092 Emoção detectada - sad
+Frame: 3096 Emoção detectada - sad
+Frame: 3100 Emoção detectada - sad
+Frame: 3104 Emoção detectada - sad
+Frame: 3108 Emoção detectada - sad
+Frame: 3112 Emoção detectada - sad
+Frame: 3116 Emoção detectada - sad
+Frame: 3120 Emoção detectada - neutral
+Frame: 3120 Emoção detectada - fear
+Frame: 3124 Emoção detectada - neutral
+Frame: 3124 Emoção detectada - fear
+Frame: 3128 Emoção detectada - neutral
+Frame: 3128 Emoção detectada - neutral
+Frame: 3132 Emoção detectada - neutral
+Frame: 3132 Emoção detectada - fear
+Frame: 3136 Emoção detectada - neutral
+Frame: 3136 Emoção detectada - neutral
+Frame: 3140 Emoção detectada - neutral
+Frame: 3140 Emoção detectada - neutral
+Frame: 3140 Emoção detectada - sad
+Frame: 3144 Emoção detectada - neutral
+Frame: 3144 Emoção detectada - neutral
+Frame: 3144 Emoção detectada - sad
+Frame: 3148 Emoção detectada - neutral
+Frame: 3148 Emoção detectada - neutral
+Frame: 3148 Emoção detectada - sad
+Frame: 3148 Emoção detectada - fear
+Frame: 3152 Emoção detectada - neutral
+Frame: 3152 Emoção detectada - neutral
+Frame: 3152 Emoção detectada - sad
+Frame: 3152 Emoção detectada - sad
+Frame: 3156 Emoção detectada - fear
+Frame: 3156 Emoção detectada - sad
+Frame: 3156 Emoção detectada - fear
+Frame: 3160 Emoção detectada - neutral
+Frame: 3160 Emoção detectada - sad
+Frame: 3160 Emoção detectada - neutral
+Frame: 3164 Emoção detectada - neutral
+Frame: 3164 Emoção detectada - sad
+Frame: 3164 Emoção detectada - fear
+Frame: 3168 Emoção detectada - happy
+Frame: 3168 Emoção detectada - neutral
+Frame: 3172 Emoção detectada - happy
+Frame: 3172 Emoção detectada - neutral
+Frame: 3172 Emoção detectada - surprise
 Frame: 3176 Pessoa olhando para frente
 Frame: 3176 Pessoa olhando para o lado Esquerdo
-Frame: 3176 happy
-Frame: 3176 surprise
+Frame: 3176 Movimento anômalo identificado.
+Frame: 3176 Emoção detectada - happy
+Frame: 3176 Emoção detectada - surprise
 Frame: 3180 Pessoa olhando para frente
 Frame: 3180 Pessoa olhando para o lado Esquerdo
-Frame: 3180 happy
-Frame: 3180 surprise
-Frame: 3180 surprise
+Frame: 3180 Emoção detectada - happy
+Frame: 3180 Emoção detectada - surprise
+Frame: 3180 Emoção detectada - surprise
 Frame: 3184 Pessoa olhando para frente
 Frame: 3184 Pessoa olhando para o lado Esquerdo
-Frame: 3184 happy
-Frame: 3184 surprise
+Frame: 3184 Emoção detectada - happy
+Frame: 3184 Emoção detectada - surprise
 Frame: 3188 Pessoa olhando para frente
 Frame: 3188 Pessoa olhando para o lado Esquerdo
-Frame: 3188 happy
-Frame: 3188 surprise
-Frame: 3188 angry
+Frame: 3188 Emoção detectada - happy
+Frame: 3188 Emoção detectada - surprise
+Frame: 3188 Emoção detectada - angry
 Frame: 3192 Pessoa olhando para frente
 Frame: 3192 Pessoa olhando para o lado Esquerdo
-Frame: 3192 neutral
-Frame: 3192 happy
-Frame: 3192 sad
+Frame: 3192 Emoção detectada - neutral
+Frame: 3192 Emoção detectada - happy
+Frame: 3192 Emoção detectada - sad
 Frame: 3196 Pessoa olhando para frente
 Frame: 3196 Pessoa olhando para o lado Esquerdo
-Frame: 3196 neutral
-Frame: 3196 surprise
-Frame: 3200 happy
-Frame: 3200 fear
-Frame: 3204 happy
-Frame: 3208 happy
-Frame: 3208 neutral
+Frame: 3196 Emoção detectada - neutral
+Frame: 3196 Emoção detectada - surprise
+Frame: 3200 Emoção detectada - happy
+Frame: 3200 Emoção detectada - fear
+Frame: 3204 Emoção detectada - happy
+Frame: 3208 Emoção detectada - happy
+Frame: 3208 Emoção detectada - neutral
 Frame: 3212 Pessoa olhando para frente
 Frame: 3212 Pessoa olhando para o lado Esquerdo
-Frame: 3212 happy
-Frame: 3212 sad
+Frame: 3212 Movimento anômalo identificado.
+Frame: 3212 Emoção detectada - happy
+Frame: 3212 Emoção detectada - sad
 Frame: 3216 Pessoa olhando para frente
 Frame: 3216 Pessoa olhando para o lado Esquerdo
-Frame: 3216 happy
+Frame: 3216 Emoção detectada - happy
 Frame: 3220 Pessoa olhando para frente
 Frame: 3220 Pessoa olhando para o lado Esquerdo
-Frame: 3220 happy
+Frame: 3220 Emoção detectada - happy
 Frame: 3224 Pessoa olhando para frente
 Frame: 3224 Pessoa olhando para o lado Esquerdo
-Frame: 3224 neutral
-Frame: 3224 angry
-Frame: 3224 sad
+Frame: 3224 Emoção detectada - neutral
+Frame: 3224 Emoção detectada - sad
 Frame: 3228 Pessoa olhando para frente
 Frame: 3228 Pessoa olhando para o lado Esquerdo
-Frame: 3228 neutral
+Frame: 3228 Emoção detectada - neutral
 Frame: 3232 Pessoa olhando para frente
 Frame: 3232 Pessoa olhando para o lado Esquerdo
-Frame: 3232 neutral
+Frame: 3232 Emoção detectada - neutral
 Frame: 3236 Pessoa olhando para frente
 Frame: 3236 Pessoa olhando para o lado Esquerdo
-Frame: 3236 neutral
-Frame: 3236 neutral
+Frame: 3236 Emoção detectada - neutral
+Frame: 3236 Emoção detectada - neutral
 Frame: 3240 Pessoa olhando para frente
 Frame: 3240 Pessoa olhando para o lado Esquerdo
-Frame: 3240 neutral
-Frame: 3240 fear
+Frame: 3240 Emoção detectada - neutral
+Frame: 3240 Emoção detectada - fear
+Frame: 3244 Pessoa com os braços abaixados.
 Frame: 3244 Pessoa olhando para frente
 Frame: 3244 Pessoa olhando para o lado Esquerdo
-Frame: 3244 neutral
-Frame: 3244 fear
-Frame: 3248 Pessoa com braços abaixados.
+Frame: 3244 Emoção detectada - neutral
+Frame: 3244 Emoção detectada - fear
+Frame: 3248 Pessoa com os braços abaixados.
 Frame: 3248 Pessoa olhando para frente
 Frame: 3248 Pessoa olhando para o lado Esquerdo
-Frame: 3248 neutral
-Frame: 3248 neutral
-Frame: 3252 Pessoa com braços abaixados.
+Frame: 3248 Emoção detectada - neutral
+Frame: 3248 Emoção detectada - neutral
+Frame: 3252 Pessoa com os braços abaixados.
 Frame: 3252 Pessoa olhando para frente
 Frame: 3252 Pessoa olhando para o lado Esquerdo
-Frame: 3252 happy
-Frame: 3252 fear
-Frame: 3252 fear
-Frame: 3256 Pessoa com braços abaixados.
+Frame: 3252 Emoção detectada - happy
+Frame: 3252 Emoção detectada - fear
+Frame: 3252 Emoção detectada - fear
+Frame: 3256 Pessoa com os braços abaixados.
 Frame: 3256 Pessoa olhando para frente
 Frame: 3256 Pessoa olhando para o lado Esquerdo
-Frame: 3256 neutral
-Frame: 3256 fear
-Frame: 3256 neutral
-Frame: 3260 Pessoa com braços abaixados.
+Frame: 3256 Emoção detectada - neutral
+Frame: 3256 Emoção detectada - fear
+Frame: 3256 Emoção detectada - neutral
+Frame: 3260 Pessoa com os braços abaixados.
 Frame: 3260 Pessoa olhando para frente
 Frame: 3260 Pessoa olhando para o lado Esquerdo
-Frame: 3260 fear
-Frame: 3260 neutral
-Frame: 3328 Pessoa com braços abaixados.
-Frame: 3328 Pessoa olhando para frente
-Frame: 3328 Pessoa olhando para o lado Esquerdo
-Frame: 3328 fear
-Frame: 3328 neutral
-Frame: 3328 angry
-Frame: 3332 Pessoa com braços abaixados.
-Frame: 3332 Pessoa olhando para frente
-Frame: 3332 Pessoa olhando para o lado Esquerdo
-Frame: 3332 happy
-Frame: 3332 fear
-Frame: 3332 sad
-Frame: 3332 angry
-Frame: 3336 Pessoa olhando para frente
-Frame: 3336 Pessoa olhando para o lado Esquerdo
-Frame: 3336 fear
-Frame: 3336 happy
-Frame: 3336 sad
-Frame: 3340 Pessoa olhando para frente
-Frame: 3340 Pessoa olhando para o lado Esquerdo
-Frame: 3340 neutral
-Frame: 3340 fear
-Frame: 3340 fear
-Frame: 3344 Pessoa olhando para frente
-Frame: 3344 Pessoa olhando para o lado Esquerdo
-Frame: 3344 fear
-Frame: 3344 neutral
-Frame: 3344 fear
-Frame: 3348 Pessoa olhando para frente
-Frame: 3348 Pessoa olhando para o lado Esquerdo
-Frame: 3348 fear
-Frame: 3348 neutral
-Frame: 3352 Pessoa com braços abaixados.
-Frame: 3352 Pessoa olhando para frente
-Frame: 3352 Pessoa olhando para o lado Esquerdo
-Frame: 3352 neutral
-Frame: 3352 fear
-Frame: 3352 fear
-Frame: 3352 sad
-Frame: 3356 Pessoa olhando para frente
-Frame: 3356 Pessoa olhando para o lado Esquerdo
-Frame: 3356 fear
-Frame: 3356 neutral
-Frame: 3360 Pessoa olhando para frente
-Frame: 3360 Pessoa olhando para o lado Esquerdo
-Frame: 3360 fear
-Frame: 3360 neutral
-Frame: 3364 Pessoa com braços abaixados.
-Frame: 3364 Pessoa olhando para frente
-Frame: 3364 Pessoa olhando para o lado Esquerdo
-Frame: 3364 happy
-Frame: 3368 Pessoa com braços abaixados.
-Frame: 3368 Pessoa olhando para frente
-Frame: 3368 Pessoa olhando para o lado Esquerdo
-Frame: 3368 happy
-Frame: 3372 Pessoa com braços abaixados.
-Frame: 3372 Pessoa olhando para frente
-Frame: 3372 Pessoa olhando para o lado Esquerdo
-Frame: 3372 angry
-Frame: 3376 Pessoa com braços abaixados.
-Frame: 3376 Pessoa olhando para frente
-Frame: 3376 Pessoa olhando para o lado Esquerdo
-Frame: 3376 angry
-Frame: 3380 Pessoa com braços abaixados.
-Frame: 3380 Pessoa olhando para frente
-Frame: 3380 Pessoa olhando para o lado Esquerdo
-Frame: 3380 neutral
-Frame: 3384 Pessoa com braços abaixados.
-Frame: 3384 Pessoa olhando para frente
-Frame: 3384 Pessoa olhando para o lado Esquerdo
-Frame: 3384 happy
-Frame: 3388 Pessoa com braços abaixados.
-Frame: 3388 Pessoa olhando para frente
-Frame: 3388 Pessoa olhando para o lado Esquerdo
-Frame: 3388 happy
+Frame: 3260 Emoção detectada - fear
+Frame: 3260 Emoção detectada - neutral
+Frame: 3264 Pessoa olhando para frente
+Frame: 3264 Pessoa olhando para o lado Esquerdo
+Frame: 3264 Emoção detectada - fear
+Frame: 3264 Emoção detectada - neutral
+Frame: 3264 Emoção detectada - angry
+Frame: 3268 Pessoa olhando para frente
+Frame: 3268 Pessoa olhando para o lado Esquerdo
+Frame: 3268 Emoção detectada - happy
+Frame: 3268 Emoção detectada - fear
+Frame: 3268 Emoção detectada - sad
+Frame: 3268 Emoção detectada - angry
+Frame: 3272 Pessoa olhando para frente
+Frame: 3272 Pessoa olhando para o lado Esquerdo
+Frame: 3272 Emoção detectada - fear
+Frame: 3272 Emoção detectada - happy
+Frame: 3272 Emoção detectada - sad
+Frame: 3276 Pessoa com os braços abaixados.
+Frame: 3276 Pessoa olhando para frente
+Frame: 3276 Pessoa olhando para o lado Esquerdo
+Frame: 3276 Emoção detectada - neutral
+Frame: 3276 Emoção detectada - fear
+Frame: 3276 Emoção detectada - fear
+Frame: 3280 Pessoa olhando para frente
+Frame: 3280 Pessoa olhando para o lado Esquerdo
+Frame: 3280 Emoção detectada - fear
+Frame: 3280 Emoção detectada - neutral
+Frame: 3280 Emoção detectada - fear
+Frame: 3280 Emoção detectada - happy
+Frame: 3284 Pessoa olhando para frente
+Frame: 3284 Pessoa olhando para o lado Esquerdo
+Frame: 3284 Emoção detectada - fear
+Frame: 3284 Emoção detectada - neutral
+Frame: 3284 Emoção detectada - neutral
+Frame: 3288 Pessoa olhando para frente
+Frame: 3288 Pessoa olhando para o lado Esquerdo
+Frame: 3288 Emoção detectada - neutral
+Frame: 3288 Emoção detectada - fear
+Frame: 3288 Emoção detectada - sad
+Frame: 3292 Pessoa olhando para frente
+Frame: 3292 Pessoa olhando para o lado Esquerdo
+Frame: 3292 Emoção detectada - fear
+Frame: 3292 Emoção detectada - neutral
+Frame: 3296 Pessoa olhando para frente
+Frame: 3296 Pessoa olhando para o lado Esquerdo
+Frame: 3296 Emoção detectada - fear
+Frame: 3296 Emoção detectada - neutral
+Frame: 3300 Pessoa com os braços abaixados.
+Frame: 3300 Pessoa olhando para frente
+Frame: 3300 Pessoa olhando para o lado Esquerdo
+Frame: 3300 Movimento anômalo identificado.
+Frame: 3300 Emoção detectada - happy
+Frame: 3304 Pessoa com os braços abaixados.
+Frame: 3304 Pessoa olhando para frente
+Frame: 3304 Pessoa olhando para o lado Esquerdo
+Frame: 3304 Emoção detectada - angry
+Frame: 3308 Pessoa com os braços abaixados.
+Frame: 3308 Pessoa olhando para frente
+Frame: 3308 Pessoa olhando para o lado Esquerdo
+Frame: 3308 Emoção detectada - fear
+Frame: 3312 Pessoa com os braços abaixados.
+Frame: 3312 Pessoa olhando para frente
+Frame: 3312 Pessoa olhando para o lado Esquerdo
+Frame: 3312 Emoção detectada - happy
+Frame: 3316 Pessoa com os braços abaixados.
+Frame: 3316 Pessoa olhando para frente
+Frame: 3316 Pessoa olhando para o lado Esquerdo
+Frame: 3316 Emoção detectada - happy
+Frame: 3320 Pessoa com os braços abaixados.
+Frame: 3320 Pessoa olhando para frente
+Frame: 3320 Pessoa olhando para o lado Esquerdo
+Frame: 3320 Emoção detectada - angry
+Frame: 3324 Pessoa com os braços abaixados.
+Frame: 3324 Pessoa olhando para frente
+Frame: 3324 Pessoa olhando para o lado Esquerdo
+Frame: 3324 Emoção detectada - happy
+Total de Movimentos Anômalos: 102
+Total de frames analisados: 832
+Total de frames.3326
