@@ -32,6 +32,7 @@ def proccess_video(video_path, output_path):
     # Definir o codec e criar o objeto VideoWriter
     fourcc = cv2.VideoWriter_fourcc(*'mp4v')  # Codec para MP4
     out = cv2.VideoWriter(output_path, fourcc, fps, (width, height))
+
     batch_size = 64 # processamento em batch para melhorar a performance
     
     batch = []
@@ -83,11 +84,13 @@ def process_batch(batch, out, countBatch, previous_landmarks_batch):
                         )
 
     mp_drawing = mp.solutions.drawing_utils 
-
+    
+    moviment = ""
     for i, frame in enumerate(batch):
         
         current_frame = i + (countBatch * 64) 
-         # Escreve o número do frame no canto superior esquerdo
+        
+        # Escreve o número do frame no canto superior esquerdo
         text = f"Frame: {current_frame}"
         position = (10, 30)  # Posição do texto (x, y)
         font = cv2.FONT_HERSHEY_SIMPLEX  # Tipo de fonte
@@ -97,46 +100,55 @@ def process_batch(batch, out, countBatch, previous_landmarks_batch):
         # Adiciona o texto ao frame
         cv2.putText(frame, text, position, font, font_scale, color, thickness)
 
-        if i % 4 == 0:  # analise de 4 em 4 frames  
+        if i % 10 == 0:  # analise de 10 em 10 frames 
+            moviment =  '' 
             analyzed_frames_counter = analyzed_frames_counter + 1
 
             #Identificando as posições
             rgb_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
             results_pose = pose.process(rgb_frame)
+           
+
             if results_pose.pose_landmarks :
                 mp_drawing.draw_landmarks(frame, results_pose.pose_landmarks, mp_pose.POSE_CONNECTIONS)
                 current_landmarks = results_pose.pose_landmarks.landmark
 
                 if is_arm_up(current_landmarks, mp_pose):
-                   write_summary("Frame: " + str(current_frame) + " Pessoa com os braços levantado.")
+                   write_summary("Frame: " + str(current_frame) + " Pessoa com os bracos levantado.")
+                   moviment = " Pessoa com os bracos levantado."
 
                 if is_person_lying(current_landmarks, mp_pose) : 
                     write_summary("Frame: " + str(current_frame) + " Pessoa deitada.")
+                    moviment += " Pessoa deitada."
 
                 if(is_arms_down(current_landmarks, mp_pose)):
-                    write_summary("Frame: " + str(current_frame) + " Pessoa com os braços abaixados.")
+                    write_summary("Frame: " + str(current_frame) + " Pessoa com os bracos abaixados.")
+                    moviment += " Pessoa com os bracos abaixados."
 
                 if(is_looking_forward(current_landmarks, mp_pose)):
                     write_summary("Frame: " + str(current_frame) + " Pessoa olhando para frente") 
-
-                look_side = is_profile_view(current_landmarks, mp_pose)
-                if look_side is not None:
-                    write_summary("Frame: " + str(current_frame) + " Pessoa olhando para o lado " + look_side)   
+                    moviment += " Pessoa olhando para frente"
+                else:
+                    look_side = is_profile_view(current_landmarks, mp_pose)
+                    if look_side is not None:
+                        write_summary("Frame: " + str(current_frame) + " Pessoa olhando para o lado " + look_side)   
+                        moviment += " Pessoa olhando para o lado " + look_side
 
                 if(previous_landmarks != None):
                     anomalous_movement = is_anomalous_movement(current_landmarks, previous_landmarks)
                     if(anomalous_movement):
-                        write_summary("Frame: " + str(current_frame) + " Movimento anômalo identificado.")
+                        write_summary("Frame: " + str(current_frame) + " Movimento anomalo identificado.")
                         anomalous_movement_counter = anomalous_movement_counter+1
+                        moviment += " Movimento anomalo identificado."
 
                 previous_landmarks = current_landmarks
 
             # Analisar o frame para detectar faces e expressões
             # detector_backend = mtcnn Melhorou o reconhecimento de faces de lado 
-            result = DeepFace.analyze(frame, actions=['emotion'], enforce_detection=False, detector_backend='mtcnn')
+            resultFaces = DeepFace.analyze(frame, actions=['emotion'], enforce_detection=False, detector_backend='mtcnn')
 
             # Iterar sobre cada face detectada pelo DeepFace
-            for face in result:
+            for face in resultFaces:
                 # Obter a caixa delimitadora da face
                 x, y, w, h = face['region']['x'], face['region']['y'], face['region']['w'], face['region']['h']
                 
@@ -149,7 +161,17 @@ def process_batch(batch, out, countBatch, previous_landmarks_batch):
                 # Escrever a emoção dominante acima da face
                 cv2.putText(frame, dominant_emotion, (x, y-10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (36, 255, 12), 2)
                 if dominant_emotion:
-                    write_summary("Frame: " + str(current_frame) + ' Emoção detectada - ' + dominant_emotion)
+                    write_summary("Frame: " + str(current_frame) + ' Emocao detectada - ' + dominant_emotion)
+
+        # Escreve o movimento no frame
+        text = f"Movimento: {moviment}"
+        position = (10, 50)  # Posição do texto (x, y)
+        font = cv2.FONT_HERSHEY_SIMPLEX  # Tipo de fonte
+        font_scale = 0.7  # Tamanho do texto
+        color = (0, 255, 0)  # Cor do texto (verde)
+        thickness = 2  # Espessura do texto
+        # Adiciona o texto ao frame
+        cv2.putText(frame, text, position, font, font_scale, color, thickness)
 
         # Escrever o frame processado no vídeo de saída
         out.write(frame)
@@ -171,33 +193,36 @@ def is_arm_up(landmarks, mp_pose):
 # Função para verificar se a pessoa está deitada
 def is_person_lying(landmarks, mp_pose):
     # Coordenadas dos olhos
-    left_eye_y = landmarks[mp_pose.PoseLandmark.LEFT_EYE.value].y
-    right_eye_y = landmarks[mp_pose.PoseLandmark.RIGHT_EYE.value].y
+    left_eye = landmarks[mp_pose.PoseLandmark.LEFT_EYE.value]
+    right_eye = landmarks[mp_pose.PoseLandmark.RIGHT_EYE.value]
+
     # Coordenadas dos ombros
-    left_shoulder_y = landmarks[mp_pose.PoseLandmark.LEFT_SHOULDER.value].y
-    right_shoulder_y = landmarks[mp_pose.PoseLandmark.RIGHT_SHOULDER.value].y
+    left_shoulder = landmarks[mp_pose.PoseLandmark.LEFT_SHOULDER.value]
+    right_shoulder = landmarks[mp_pose.PoseLandmark.RIGHT_SHOULDER.value]
 
-    # Média das posições (alinhamento médio)
-    eyes_y = (left_eye_y + right_eye_y) / 2
-    shoulders_y = (left_shoulder_y + right_shoulder_y) / 2
+    # Coordenadas do nariz 
+    nose = landmarks[mp_pose.PoseLandmark.NOSE.value]
 
-    # Diferença entre olhos e ombros no eixo Y
-    y_difference = abs(eyes_y - shoulders_y)
+    # Diferença em 'x' e 'y' entre os ombros
+    shoulder_x_difference = abs(left_shoulder.x - right_shoulder.x)
+
+    # Diferença em 'x' e 'y' entre os olhos
+    eyes_x_difference = abs(left_eye.x - right_eye.x)
     
-    # Diferença no eixo X entre os ombros (largura)
-    left_shoulder_x = landmarks[mp_pose.PoseLandmark.LEFT_SHOULDER.value].x
-    right_shoulder_x = landmarks[mp_pose.PoseLandmark.RIGHT_SHOULDER.value].x
-    shoulder_width = abs(left_shoulder_x - right_shoulder_x)
+    # Critérios para estar deitado de lado:
+    # 1. Ombros alinhados horizontalmente (pequena diferença em 'x')
+    # 2. Olhos alinhados horizontalmente (pequena diferença em 'x')
+    # 3. O nariz está entre os olhos no eixo 'y'
+    if shoulder_x_difference < 0.1 and eyes_x_difference < 0.1:
+        if(min(left_eye.y, right_eye.y) < nose.y < max(left_eye.y, right_eye.y)):
+            return True  # Pessoa está deitada de lado
 
-    # Tolerância para determinar se está deitado
-    if y_difference < 0.1 and shoulder_width > 0.3:  # Ajuste os valores conforme necessário
-        return True
-    return False
+    return False  # Pessoa não está deitada de lado
 
 # Função para verificar se a pessoa está com os braços abaixados
 def is_arms_down(landmarks, mp_pose):
    
-    # Get relevant landmarks
+    # Coordenadas dos ombros, cotovelos e pulso
     left_shoulder = landmarks[mp_pose.PoseLandmark.LEFT_SHOULDER]
     right_shoulder = landmarks[mp_pose.PoseLandmark.RIGHT_SHOULDER]
     left_elbow = landmarks[mp_pose.PoseLandmark.LEFT_ELBOW]
@@ -205,7 +230,7 @@ def is_arms_down(landmarks, mp_pose):
     left_wrist = landmarks[mp_pose.PoseLandmark.LEFT_WRIST]
     right_wrist = landmarks[mp_pose.PoseLandmark.RIGHT_WRIST]
 
-    # Check if elbows and wrists are below shoulders (higher y value)
+    #Ombro acima do cotovelo e pulso abaixo do cotovelo
     arms_down = (
         left_elbow.y > left_shoulder.y and left_wrist.y > left_elbow.y and
         right_elbow.y > right_shoulder.y and right_wrist.y > right_elbow.y
@@ -216,34 +241,37 @@ def is_arms_down(landmarks, mp_pose):
 # Função para verificar se a pessoa olhando para frente 
 def is_looking_forward(landmarks, mp_pose):
     
-    # Obtém os landmarks relevantes
-    nose = landmarks[mp_pose.PoseLandmark.NOSE]
-    left_shoulder = landmarks[mp_pose.PoseLandmark.LEFT_SHOULDER]
-    right_shoulder = landmarks[mp_pose.PoseLandmark.RIGHT_SHOULDER]
-
-    # Critério 1: Nariz centralizado entre os ombros (eixo X)
-    shoulder_center_x = (left_shoulder.x + right_shoulder.x) / 2
-    nose_centered = abs(nose.x - shoulder_center_x) < 0.1  # Tolerância para centralização
-
-    # Critério 2: Ombros alinhados (diferença mínima no eixo Y)
-    shoulders_aligned = abs(left_shoulder.y - right_shoulder.y) < 0.05
-
-    # Retorna True se ambos os critérios forem atendidos
-    return nose_centered and shoulders_aligned
+     # Coordenadas do nariz e olhos
+    left_eye = landmarks[mp_pose.PoseLandmark.LEFT_EYE.value]
+    right_eye = landmarks[mp_pose.PoseLandmark.RIGHT_EYE.value]
+    nose = landmarks[mp_pose.PoseLandmark.NOSE.value]
+    
+    # Verificar alinhamento horizontal do nariz entre os olhos
+    nose_centered = min(left_eye.x, right_eye.x) < nose.x < max(left_eye.x, right_eye.x)
+    
+    # Verificar alinhamento vertical do nariz em relação aos olhos
+    nose_y = nose.y
+    eyes_y = (left_eye.y + right_eye.y) / 2
+    nose_aligned_vertically = abs(nose_y - eyes_y) < 0.1  # Diferença pequena na altura dos olhos e nariz
+    
+    return nose_centered and nose_aligned_vertically
 
 # Função para verificar se a pessoa de perfil
 def is_profile_view(landmarks, mp_pose):
 
-    # Obtém os landmarks relevantes
-    nose = landmarks[mp_pose.PoseLandmark.NOSE]
-    left_shoulder = landmarks[mp_pose.PoseLandmark.LEFT_SHOULDER]
-    right_shoulder = landmarks[mp_pose.PoseLandmark.RIGHT_SHOULDER]
+    # Coordenadas dos olhos e nariz
+    left_eye = landmarks[mp_pose.PoseLandmark.LEFT_EYE.value]
+    right_eye = landmarks[mp_pose.PoseLandmark.RIGHT_EYE.value]
+    nose = landmarks[mp_pose.PoseLandmark.NOSE.value]
 
-    # Critério 1: Nariz deslocado significativamente em direção a um ombro
-    if nose.x < left_shoulder.x:  # Nariz mais próximo do ombro esquerdo
-        return "Esquerdo"
-    elif nose.x > right_shoulder.x:  # Nariz mais próximo do ombro direito
-        return "Direto"
+    # Diferença em 'x' entre os olhos
+    eye_center_x = (left_eye.x + right_eye.x) / 2
+
+    # Verifica a posição do nariz em relação ao centro dos olhos
+    if nose.x < eye_center_x:  # Nariz está mais próximo do olho direito
+        return "Esquerdo"  # Perfil Esquerdo
+    elif nose.x > eye_center_x:  # Nariz está mais próximo do olho esquerdo
+        return "Direito"  # Perfil Direito
 
     return None
 
@@ -270,6 +298,7 @@ def write_summary(text):
         arquivo.write(text + "\n")
 
 
+# Apagando as informações anteriores no arquivo de resumo
 with open("summary.txt", "w") as arquivo:
     pass
 
@@ -278,5 +307,5 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 input_video_path = os.path.join(script_dir, 'video.mp4')  # Substitua 'meu_video.mp4' pelo nome do seu vídeo
 output_video_path = os.path.join(script_dir, 'output_video.mp4')  # Nome do vídeo de saída
 
-# Chamar a função para detectar emoções e reconhecer faces no vídeo, salvando o vídeo processado
+# Chamar a função para detectar emoções e reconhecer posições no vídeo, salvando o vídeo processado
 proccess_video(input_video_path, output_video_path)
